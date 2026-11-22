@@ -1,0 +1,429 @@
+angel_client.passthrough=%s
+angel_client.slider.percent=%s%%
+angel_client.slider.factor=%sx
+angel_client.slider.seconds=%s сек
+
+angel_client.vertical_alignment.top=Вверх
+angel_client.vertical_alignment.middle=По центру
+angel_client.vertical_alignment.bottom=Вниз
+
+angel_client.perspective.first_person=От 1-го лица
+angel_client.perspective.third_person_back=От 3-го лица сзади
+angel_client.perspective.third_person_front=От 3-го лица спереди
+
+angel_client.easing.linear=Линейная
+angel_client.easing.quad=Квадратная
+angel_client.easing.cubic=Кубическая
+angel_client.easing.quart=Квартовая
+angel_client.easing.quint=Квинтовая
+angel_client.easing.expo=Экспоненциальная
+angel_client.easing.sine=Синусоидальная
+angel_client.easing.circ=Круговая
+angel_client.easing.back=Задняя
+angel_client.easing.bounce=Прыгучая
+angel_client.easing.elastic=Эластичная
+
+angel_client.file.edit=Редактировать файл
+
+angel_client.servers=Сервера
+
+angel_client.key.category=Angel Client
+angel_client.key.accept_request=Принять запрос
+angel_client.key.dismiss_request=Отклонить запрос
+
+angel_client.mod.generic.option.enabled=Включено
+angel_client.mod.hud.option.scale=Масштаб
+angel_client.mod.simple_hud.option.background=Фон
+angel_client.mod.simple_hud.option.backgroundColour=Цвет фона
+angel_client.mod.simple_hud.option.border=Бордюр
+angel_client.mod.simple_hud.option.borderColour=Цвет бордюра
+angel_client.mod.simple_hud.option.textColour=Цвет текста
+angel_client.mod.simple_hud.option.shadow=Тень текста
+
+angel_client.mod.angel_client.name=Angel Client
+angel_client.mod.angel_client.description=Общие настройки Angel Client.
+
+angel_client.mod.angel_client.option.fancyMainMenu=Красивое главное меню
+angel_client.mod.angel_client.option.logoInInventory=Показывать логотип в инвентаре
+angel_client.mod.angel_client.mods=Модификации
+angel_client.mod.angel_client.option.modsKey=Кнопка модификаций
+angel_client.mod.angel_client.edit_hud=Редактировать интерфейс
+angel_client.mod.angel_client.option.editHudKey=Кнопка интерфейса
+angel_client.mod.angel_client.option.uiColour=Второй цвет
+angel_client.mod.angel_client.option.smoothUIColours=Плавная смена цветов
+angel_client.mod.angel_client.option.roundedUI=Скруглённый интерфейс
+angel_client.mod.angel_client.option.buttonClicks=Щелчки кнопок
+angel_client.mod.angel_client.option.smoothScrolling=Плавная промотка
+angel_client.mod.angel_client.option.fancyFont=Шрифт высокого разрешения
+
+angel_client.mod.fps.name=FPS
+angel_client.mod.fps.description=Отображает FPS (кадры в секунду).
+
+angel_client.mod.coordinates.name=Координаты
+angel_client.mod.coordinates.description=Показывает ваши координаты.
+
+angel_client.mod.coordinates.option.axisLabelColour=Цвет названия оси
+angel_client.mod.coordinates.option.axisValueColour=Цвет значения оси
+angel_client.mod.coordinates.option.cardinalDirection=Общая ориентация
+angel_client.mod.coordinates.option.cardinalDirectionColour=Цвет общей ориентации
+angel_client.mod.coordinates.option.axisDirection=Точное направление
+angel_client.mod.coordinates.option.axisDirectionColour=Цвет точного направления
+
+angel_client.mod.keystrokes.name=Клавиши
+angel_client.mod.keystrokes.description=Отображает в данный момент нажатые клавиши.
+
+angel_client.mod.keystrokes.option.movement=Кнопки движения
+angel_client.mod.keystrokes.option.mouse=Кнопки мыши
+angel_client.mod.keystrokes.option.mouseMovement=Смещение мыши
+angel_client.mod.keystrokes.option.showSpace=Пробел
+angel_client.mod.keystrokes.option.cps=CPS на кнопках
+angel_client.mod.keystrokes.option.backgroundColourPressed=Фон при нажатии
+angel_client.mod.keystrokes.option.borderColourPressed=Бордюр при нажатии
+angel_client.mod.keystrokes.option.textColourPressed=Цвет текста при нажатии
+angel_client.mod.keystrokes.option.smoothColours=Плавная смена цветов
+
+angel_client.mod.cps.name=CPS
+angel_client.mod.cps.description=Отображает ваш CPS (нажатия в секунду).
+
+angel_client.mod.cps.option.rmb=CPS правой кнопки мыши
+angel_client.mod.cps.option.separatorColour=Цвет разделителя
+
+angel_client.mod.ping.name=Пинг
+angel_client.mod.ping.description=Отображает задержку приёмопередачи.
+
+angel_client.mod.speedometer.name=Спидометр
+angel_client.mod.speedometer.description=Отображает вашу скорость.
+
+angel_client.mod.speedometer.option.graphMode=График
+
+angel_client.mod.reach_display.name=Расстояние
+angel_client.mod.reach_display.description=Отображает расстояние при ударе существ.
+
+angel_client.mod.combo_counter.name=Счётчик комбо
+angel_client.mod.combo_counter.description=Показывает количество ударов в ряд.
+angel_client.mod.combo_counter.no_hits=Нет ударов
+angel_client.mod.combo_counter.one_hit=1 удар
+angel_client.mod.combo_counter.n_hits=%s ударов
+
+angel_client.mod.potion_effects.name=Эффекты
+angel_client.mod.potion_effects.description=Показывает активные эффекты с обратным отсчётом.
+
+angel_client.mod.potion_effects.option.alignment=Выравнивание
+angel_client.mod.potion_effects.option.icon=Иконка
+angel_client.mod.potion_effects.option.background=Фон
+angel_client.mod.potion_effects.option.title=Метка
+angel_client.mod.potion_effects.option.titleColour=Цвет названия
+angel_client.mod.potion_effects.option.duration=Время
+angel_client.mod.potion_effects.option.durationColour=Цвет обр. отсчёта
+angel_client.mod.potion_effects.option.spacing=Расстояние
+
+angel_client.mod.armour.name=Броня и инструмент
+angel_client.mod.armour.description=Показывает текущую броню, инструмент и их запас прочности.
+
+angel_client.mod.armour.option.durability=Прочность
+angel_client.mod.armour.option.durability.remaining=Остаток
+angel_client.mod.armour.option.durability.percentage=Проценты
+angel_client.mod.armour.option.durability.fraction=Дробь
+
+angel_client.mod.armour.option.armour=Показывать броню
+angel_client.mod.armour.option.hand=Показывать инструмент
+
+angel_client.mod.timers.name=Таймеры
+angel_client.mod.timers.description=Показывает таймеры для внутриигровых событий.
+
+angel_client.mod.timers.option.alignment=Выравнивание
+angel_client.mod.timers.option.icon=Иконка
+angel_client.mod.timers.option.nameColour=Цвет наименования
+angel_client.mod.timers.option.timeColour=Цвет таймера
+
+angel_client.mod.chat.name=Чат
+angel_client.mod.chat.description=Помогает дополнительно настроить чат.
+
+angel_client.mod.chat.peek=Подсмотр
+angel_client.mod.chat.option.preventClose=Предотвратить скрытие
+angel_client.mod.chat.option.smooth=Анимация сообщений
+angel_client.mod.chat.option.infiniteChat=Бесконечный чат
+angel_client.mod.chat.option.peekKey=Кнопка подсмотра
+
+angel_client.mod.chat.option.visibility=Видимость
+angel_client.mod.chat.option.visibility.shown=Виден
+angel_client.mod.chat.option.visibility.commands=Только команды
+angel_client.mod.chat.option.visibility.hidden=Скрыт
+
+angel_client.mod.chat.option.defaultTextColour=Цвет текста по умолчанию
+angel_client.mod.chat.option.colours=Цвета
+angel_client.mod.chat.option.width=Ширина
+angel_client.mod.chat.option.closedHeight=Высота закрытого чата
+angel_client.mod.chat.option.openHeight=Высота открытого чата
+angel_client.mod.chat.option.links=Ссылки
+angel_client.mod.chat.option.promptLinks=Запрашивать разрешение на открытие ссылок 
+angel_client.mod.chat.option.chatFilter=Фильтр чата
+angel_client.mod.chat.option.filteredWordsContent=Слова для фильтра
+
+angel_client.mod.tab_list.name=Список игроков
+angel_client.mod.tab_list.description=Настраивает список игроков.
+
+angel_client.mod.tab_list.option.hideHeader=Скрыть верх
+angel_client.mod.tab_list.option.hideFooter=Скрыть низ
+
+angel_client.mod.tab_list.option.pingType=Индикатор соединения
+angel_client.mod.tab_list.option.pingType.none=Скрыт
+angel_client.mod.tab_list.option.pingType.icon=Иконка
+angel_client.mod.tab_list.option.pingType.numeral=Цифра
+
+angel_client.mod.tab_list.option.backgroundColour=Цвет фона списка
+angel_client.mod.tab_list.option.entryBackgroundColour=Цвет фона игрока
+angel_client.mod.tab_list.option.hidePlayerHeads=Скрыть головы
+angel_client.mod.tab_list.option.textShadow=Тень текста
+
+angel_client.mod.crosshair.name=Прицел
+angel_client.mod.crosshair.description=Настраивает ваш прицел.
+
+angel_client.mod.crosshair.option.style=Стиль
+angel_client.mod.crosshair.option.style.default=По умолчанию
+angel_client.mod.crosshair.option.style.none=Без прицела
+angel_client.mod.crosshair.option.style.dot=Точка
+angel_client.mod.crosshair.option.style.plus=Плюс
+angel_client.mod.crosshair.option.style.plus_dot=Плюс с точкой
+angel_client.mod.crosshair.option.style.square=Квадрат
+angel_client.mod.crosshair.option.style.square_dot=Квадрат с точкой
+angel_client.mod.crosshair.option.style.circle=Круг
+angel_client.mod.crosshair.option.style.circle_dot=Круг с точкой
+angel_client.mod.crosshair.option.style.four_angled=Ракетный
+angel_client.mod.crosshair.option.style.four_angled_dot=Ракетный с точкой
+angel_client.mod.crosshair.option.style.triangle=Треугольный
+
+angel_client.mod.crosshair.option.thirdPerson=Показывать в режиме от 3-го лица
+angel_client.mod.crosshair.option.spectatorAlways=Показывать в режиме обозревателя
+angel_client.mod.crosshair.option.debug=Показывать в отладочном режиме
+angel_client.mod.crosshair.option.blending=Смешивание
+angel_client.mod.crosshair.option.crosshairColour=Цвет прицела
+angel_client.mod.crosshair.option.highlightEntities=Подсвечивать существа
+angel_client.mod.crosshair.option.entityColour=Цвет существ
+
+angel_client.mod.scoreboard.name=Боковая таблица очков
+angel_client.mod.scoreboard.description=Настраивает боковую таблицу очков.
+
+angel_client.mod.scoreboard.option.backgroundColourTop=Фон верха
+angel_client.mod.scoreboard.option.numbers=Цифры
+angel_client.mod.scoreboard.option.numbersColour=Цвет цифр
+
+angel_client.mod.tweaks.name=Твики
+angel_client.mod.tweaks.description=Различные мелкие улучшения, включающие в себя Fullbright.
+
+angel_client.mod.tweaks.option.fullbright=Fullbright
+angel_client.mod.tweaks.option.showOwnTag=Показывать свой ник
+angel_client.mod.tweaks.option.arabicNumerals=Арабские цифры на чарах
+angel_client.mod.tweaks.option.betterTooltips=Улучшить подсказки
+angel_client.mod.tweaks.option.minimalViewBobbing=Уменьшить покачивание камеры
+angel_client.mod.tweaks.option.minimalDamageShake=Уменьшить качание при уроне
+angel_client.mod.tweaks.option.damageShakeIntensity=Сила качания при уроне
+angel_client.mod.tweaks.option.confirmDisconnect=Спрашивать при отключении
+angel_client.mod.tweaks.option.betterKeyBindings=Улучшенные приивязки клавиш
+angel_client.mod.tweaks.option.disableHotbarScrolling=Отключить колёсико в хотбаре
+angel_client.mod.tweaks.option.borderlessFullscreen=Оконный полный экран
+
+angel_client.mod.tweaks.confirm_disconnect=Нажмите ещё раз для подтверждения
+
+angel_client.mod.freelook.name=Свободный просмотр
+angel_client.mod.freelook.description=Разрешает смотреть вокруг не двигая головой.
+
+angel_client.mod.freelook.key=Свободный просмотр
+angel_client.mod.freelook.option.key=Кнопка
+
+angel_client.mod.freelook.option.perspective=Перспектива
+angel_client.mod.freelook.option.invertPitch=Инверсия мыши по вертикали
+angel_client.mod.freelook.option.invertYaw=Инверсия мыши по горизонтали
+
+angel_client.mod.taplook.name=Быстрая смена перспективы
+angel_client.mod.taplook.description=Изменяет перспективу на время удержания кнопки.
+
+angel_client.mod.taplook.key=Быстрая перспектива
+angel_client.mod.taplook.option.key=Кнопка
+angel_client.mod.taplook.option.perspective=Перспектива
+
+angel_client.mod.toggle_sprint.name=Переключатель бега
+angel_client.mod.toggle_sprint.description=Заставляет кнопку бега работать как переключатель.
+
+angel_client.mod.toggle_sprint.option.hud=HUD
+
+angel_client.mod.toggle_sprint.held=Бег (Зажат)
+angel_client.mod.toggle_sprint.toggled=Бег (Включен)
+
+angel_client.mod.zoom.name=Зум
+angel_client.mod.zoom.description=Приблизить мир при нажатии на клавишу.
+
+angel_client.mod.zoom.key=Приближение
+angel_client.mod.zoom.option.key=Кнопка
+angel_client.mod.zoom.zoom_out=Отдалить
+angel_client.mod.zoom.option.zoomOutKey=Кнопка отдаления
+angel_client.mod.zoom.zoom_in=Приблизить
+angel_client.mod.zoom.option.zoomInKey=Кнопка приближения
+angel_client.mod.zoom.option.cinematic=Кинематографическая камера
+angel_client.mod.zoom.option.reduceSensitivity=Снизить чувствительность
+angel_client.mod.zoom.option.scrolling=Приближение колёсиком
+angel_client.mod.zoom.option.smooth=Плавное приближение
+angel_client.mod.zoom.option.factor=Фактор приближения
+
+angel_client.mod.replay.name=Запись
+angel_client.mod.replay.description=Запись и воспроизведение геймплея.
+
+angel_client.mod.replay.option.enableNotifications=Включить уведомления
+angel_client.mod.replay.option.recordSingleplayer=Запись в одиночной игре
+angel_client.mod.replay.option.recordServer=Запись на сервере
+angel_client.mod.replay.option.recordingIndicator=Индикатор записи
+angel_client.mod.replay.option.recordingIndicatorColour=Цвет индикатора записи
+angel_client.mod.replay.option.recordingIndicatorScale=Масштаб индикатора записи
+angel_client.mod.replay.option.recordingIndicatorTextColour=Цвет текста индикатора
+angel_client.mod.replay.option.recordingIndicatorTextShadow=Тень текста индикатора
+angel_client.mod.replay.option.automaticRecording=Автозапись
+angel_client.mod.replay.option.renameDialog=Диалог переименования
+angel_client.mod.replay.option.showChat=Показывать чат
+
+angel_client.mod.replay.option.camera=Камера
+angel_client.mod.replay.option.camera.classic=Классическая
+angel_client.mod.replay.option.camera.vanilla_ish="Ванильная"
+
+angel_client.mod.replay.option.showPathPreview=Показывать предпросмотр пути
+
+angel_client.mod.replay.option.defaultInterpolator=Режим интерполяции
+angel_client.mod.replay.interpolator.catmull=Сплайн Кэтмуля-Рома
+angel_client.mod.replay.interpolator.cubic=Кубический
+angel_client.mod.replay.interpolator.linear=Линейный
+
+angel_client.mod.replay.option.showServerIPs=Показывать адреса серверов
+
+angel_client.mod.quickplay.name=Быстрый переход
+angel_client.mod.quickplay.description=Быстрый переход в миниигры с клавиатуры.
+
+angel_client.mod.quickplay.key=Быстрый переход
+angel_client.mod.quickplay.option.menuKey=Кнопка
+
+angel_client.mod.hypixel_util.name=Дополнения для Hypixel
+angel_client.mod.hypixel_util.description=Разлиные дополнения для игры на Hypixel.
+
+angel_client.mod.hypixel_util.option.visitHousingCommand=/visithousing
+angel_client.mod.hypixel_util.option.lobbySoundsVolume=Громкость звука в лобби
+angel_client.mod.hypixel_util.option.housingMusicVolume=громкость музыки в Housing
+angel_client.mod.hypixel_util.option.popupEvents=Уведомления событий
+angel_client.mod.hypixel_util.option.autogg=Авто-GG
+angel_client.mod.hypixel_util.option.autoggMessage=Сообщение Авто-GG
+angel_client.mod.hypixel_util.option.hidegg=Скрывать GG
+angel_client.mod.hypixel_util.option.autogl=Авто-GL
+angel_client.mod.hypixel_util.option.autoglMessage=Сообщение Авто-GL
+angel_client.mod.hypixel_util.option.hidegl=Скрывать GL
+angel_client.mod.hypixel_util.option.levelhead=Голова уровня
+
+angel_client.mod.tnt_timer.name=Таймер динамита
+angel_client.mod.tnt_timer.description=Показывает таймер взрыва динамита.
+
+angel_client.mod.motion_blur.name=Размытие движения
+angel_client.mod.motion_blur.description=Включает эффект плавного размытия движения.
+
+angel_client.mod.motion_blur.option.blur=Сила размытия
+
+angel_client.mod.menu_blur.name=Размытие фона меню
+angel_client.mod.menu_blur.description=Размывает фон в меню.
+
+angel_client.mod.menu_blur.option.blur=Сила размытия
+angel_client.mod.menu_blur.option.fadeTime=Время размытия
+angel_client.mod.menu_blur.option.backgroundColour=Цвет фона
+
+angel_client.mod.colour_saturation.name=Резкость
+angel_client.mod.colour_saturation.description=Настраивает резкость цветов в мире.
+
+angel_client.mod.colour_saturation.option.saturation=Резкость
+
+angel_client.mod.chunk_animator.name=Анимация прогрузки
+angel_client.mod.chunk_animator.description=Анимирует мир по мере прогрузки.
+
+angel_client.mod.chunk_animator.option.duration=Время
+angel_client.mod.chunk_animator.option.animation=Анимация
+
+angel_client.mod.1.7_visuals.name=Оформление 1.7
+angel_client.mod.1.7_visuals.description=Частично возвращает ощущения от 1.7
+
+angel_client.mod.1.7_visuals.option.useAndMine=Копание при использовании предмета
+angel_client.mod.1.7_visuals.option.particles=Частицы
+angel_client.mod.1.7_visuals.option.blocking=Блокирование мечом
+angel_client.mod.1.7_visuals.option.eatingAndDrinking=Еда и питьё
+angel_client.mod.1.7_visuals.option.rod=Удочка
+angel_client.mod.1.7_visuals.option.bow=Лук
+angel_client.mod.1.7_visuals.option.armourDamage=Эффект урона по броне
+angel_client.mod.1.7_visuals.option.sneaking=Плавное приседание
+
+angel_client.mod.item_physics.name=Физика предметов
+angel_client.mod.item_physics.description=Добавляет физику падения предметов.
+
+angel_client.mod.item_physics.option.rotationSpeed=Скорость вращения
+
+angel_client.mod.particles.name=Частицы
+angel_client.mod.particles.description=Настраивает и умножает некоторые виды частиц.
+
+angel_client.mod.particles.option.multiplier=Множитель
+angel_client.mod.particles.option.sharpness=Всегда показывать остроту
+angel_client.mod.particles.option.snow=Добавить снег
+angel_client.mod.particles.option.slime=Добавить слаймы
+angel_client.mod.particles.option.flames=Добавить огоньки
+
+angel_client.mod.time_changer.name=Изменение времени
+angel_client.mod.time_changer.description=Изменяет видимое время, не изменяя геймплей.
+
+angel_client.mod.time_changer.option.time=Время
+
+angel_client.mod.block_selection.name=Рамка блоков
+angel_client.mod.block_selection.description=Настраивает рамку выбора блоков.
+
+angel_client.mod.block_selection.option.outline=Обводка
+angel_client.mod.block_selection.option.outlineWidth=Ширина обводки
+angel_client.mod.block_selection.option.outlineColour=Цвет обводки
+angel_client.mod.block_selection.option.fill=Заливка
+angel_client.mod.block_selection.option.fillColour=Цвет заливки
+angel_client.mod.block_selection.option.depth=Глубина
+angel_client.mod.block_selection.option.persistent=Отображается всегда
+
+angel_client.mod.hit_colour.name=Цвет удара
+angel_client.mod.hit_colour.description=Изменяет цвет удара.
+
+angel_client.mod.hit_colour.option.colour=Цвет
+
+angel_client.mod.hitbox.name=Хитбоксы
+angel_client.mod.hitbox.description=Настраивает и включает отображение хитбоксов.
+
+angel_client.mod.hitbox.option.toggleHitboxes=Включить хитбоксы
+angel_client.mod.hitbox.option.boundingBox=Показывать хитбокс
+angel_client.mod.hitbox.option.boundingBoxColour=Цвет хитбокса
+angel_client.mod.hitbox.option.eyeHeight=Показывать высоту глаз
+angel_client.mod.hitbox.option.eyeHeightColour=Цвет высоты глаз
+angel_client.mod.hitbox.option.lookVector=Показывать вектор поворота
+angel_client.mod.hitbox.option.lookVectorColour=Цвет вектора поворота
+angel_client.mod.hitbox.option.lineWidth=Ширина линий
+
+angel_client.mod.category.general.name=Общие
+angel_client.mod.category.hud.name=Интерфейс
+angel_client.mod.category.utility.name=Инструменты
+angel_client.mod.category.visual.name=Вид
+angel_client.mod.category.integration.name=Интеграция
+
+angel_client.mod.discord_integration.name=Интеграция с Discord
+angel_client.mod.discord_integration.description=Добавляет интеграцию с Discord, включающую в себя оверлей и другие функции
+
+angel_client.mod.discord_integration.option.voiceChatHud=Интерфейс голосового чата
+angel_client.mod.discord_integration.option.voiceChatHudScale=Размер интерфейса голосового чата
+angel_client.mod.discord_integration.option.voiceChatHudAlignment=Выравнивание интерфейса голосового чата
+angel_client.mod.discord_integration.option.usernameColour=Цвет имени пользователя
+angel_client.mod.discord_integration.option.mutedColour=Цвет имени заглушенного пользователя
+angel_client.mod.discord_integration.option.speakingColour=Цвет имени говорящего пользователя
+
+angel_client.mod.screen.title=Модификации
+angel_client.mod.screen.search=Начните печатать...
+angel_client.mod.screen.apply_to_all=Применить конфигурацию
+
+angel_client.hud.edit=Редактировать интерфейс
+
+angel_client.packs.apply=Применить
+angel_client.packs.open_folder=Папка пакетов
+angel_client.packs.folder=Папка (%d элементов)
+
+angel_client.screenshot.view=Посмотреть
+angel_client.screenshot.open_folder=Показать в папке

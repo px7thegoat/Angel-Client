@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+TweakOrder: 0
+MixinConfigs: mixins.angelclient.json,mixins.raven.json
+TweakClass: io.github.angelclient.client.tweak.Tweaker
+Class-Path: techjar/driver/usb/JInputUSBDriver.jar
+Main-Class: net.minecraft.launchwrapper.Launch
+

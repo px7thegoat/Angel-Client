@@ -1,0 +1,428 @@
+angel_client.passthrough=%s
+angel_client.slider.percent=%s%%
+angel_client.slider.factor=%sx
+angel_client.slider.seconds=%ss
+
+angel_client.vertical_alignment.top=Oberseite
+angel_client.vertical_alignment.middle=Mitte
+angel_client.vertical_alignment.bottom=Unterseite
+
+angel_client.perspective.first_person=Erste Person
+angel_client.perspective.third_person_back=Dritte Person Rückseite
+angel_client.perspective.third_person_front=Dritte Person Vorderseite
+
+angel_client.easing.linear=Geradlinig
+angel_client.easing.quad=Quad
+angel_client.easing.cubic=Cubic
+angel_client.easing.quart=Quart
+angel_client.easing.quint=Quint
+angel_client.easing.expo=Expo
+angel_client.easing.sine=Sine
+angel_client.easing.circ=Circ
+angel_client.easing.back=Rücken
+angel_client.easing.bounce=Prallen
+angel_client.easing.elastic=Elastisch
+
+angel_client.file.edit=Datei bearbeiten...
+
+angel_client.servers=Server
+
+angel_client.key.category=Angel Client
+angel_client.key.accept_request=Anfrage annehmen
+angel_client.key.dismiss_request=Anfrage 
+
+angel_client.mod.generic.option.enabled=Ermöglicht
+angel_client.mod.hud.option.scale=Größe
+angel_client.mod.simple_hud.option.background=Hintergrund
+angel_client.mod.simple_hud.option.backgroundColour=Hintergrundfarbe
+angel_client.mod.simple_hud.option.border=Umriss
+angel_client.mod.simple_hud.option.borderColour=Umrissfarbe
+angel_client.mod.simple_hud.option.textColour=Textfarbe
+angel_client.mod.simple_hud.option.shadow=Textschatten
+
+angel_client.mod.angel_client.name=Angel Client
+angel_client.mod.angel_client.description=Generelle Einstellungen für Angel Client.
+
+angel_client.mod.angel_client.option.fancyMainMenu=Hauptmenü
+angel_client.mod.angel_client.option.logoInInventory=Symbol im Inventar anzeigen
+angel_client.mod.angel_client.mods=Mods
+angel_client.mod.angel_client.option.modsKey=Mods Taste
+angel_client.mod.angel_client.edit_hud=HUD bearbeiten
+angel_client.mod.angel_client.option.editHudKey=HUD Taste bearbeiten
+angel_client.mod.angel_client.option.uiColour=Akzent Farben
+angel_client.mod.angel_client.option.smoothUIColours=Sanfte UI Farben
+angel_client.mod.angel_client.option.roundedUI=Gerundetes UI
+angel_client.mod.angel_client.option.buttonClicks=Knopfklicks
+angel_client.mod.angel_client.option.smoothScrolling=Sanftes Scrollen
+angel_client.mod.angel_client.option.fancyFont=HD Schriftart
+
+angel_client.mod.fps.name=FPS
+angel_client.mod.fps.description=FPS (Frames pro Sekunde).
+
+angel_client.mod.coordinates.name=Koordinaten
+angel_client.mod.coordinates.description=Deine Koordinaten anzeigen.
+
+angel_client.mod.coordinates.option.axisLabelColour=Achsenetikettenfarbe
+angel_client.mod.coordinates.option.axisValueColour=Achsenwertfarbe
+angel_client.mod.coordinates.option.cardinalDirection=Himmelsrichtung
+angel_client.mod.coordinates.option.cardinalDirectionColour=Farbe der Himmelsrichtung
+angel_client.mod.coordinates.option.axisDirection=Achsenrichtung
+angel_client.mod.coordinates.option.axisDirectionColour=Farbe der Achsenrichtung
+
+angel_client.mod.keystrokes.name=Tastenanschläge
+angel_client.mod.keystrokes.description=Die momentan gedrückten Tasten anzeigen.
+
+angel_client.mod.keystrokes.option.movement=Bewegung
+angel_client.mod.keystrokes.option.mouse=Maus
+angel_client.mod.keystrokes.option.mouseMovement=Mausbewegung
+angel_client.mod.keystrokes.option.showSpace=Leertaste
+angel_client.mod.keystrokes.option.cps=CPS auf Tasten
+angel_client.mod.keystrokes.option.backgroundColourPressed=Hintergrundfarbe (Gedrückt)
+angel_client.mod.keystrokes.option.borderColourPressed=Umrissfarbe (Gedrückt)
+angel_client.mod.keystrokes.option.textColourPressed=Textfarbe (Gedrückt)
+angel_client.mod.keystrokes.option.smoothColours=Sanfte Farben
+
+angel_client.mod.cps.name=CPS
+angel_client.mod.cps.description=CPS anzeigen (Klicks pro Sekunde).
+
+angel_client.mod.cps.option.rmb=Rechter Mausknopf CPS
+angel_client.mod.cps.option.separatorColour=Trennerfarbe
+
+angel_client.mod.ping.name=Ping
+angel_client.mod.ping.description=Zeige die Latenz zum aktuellen Server an.
+
+angel_client.mod.speedometer.name=Tachometer
+angel_client.mod.speedometer.description=Deine Geschwindigkeit anzeigen.
+
+angel_client.mod.reach_display.name=Reichweitendisplay
+angel_client.mod.reach_display.description=Distanz beim Treffen von Kreaturen anzeigen.
+
+angel_client.mod.combo_counter.name=Kombi Zähler
+angel_client.mod.combo_counter.description=Zähle die Nummer von nachfolgenden Treffer.
+
+angel_client.mod.combo_counter.default_width=63
+
+angel_client.mod.combo_counter.no_hits=Keine Kombi
+angel_client.mod.combo_counter.one_hit=1 Treffer
+angel_client.mod.combo_counter.n_hits=%s Treffer
+
+angel_client.mod.potion_effects.name=Trankeffekte
+angel_client.mod.potion_effects.description=Aktive Tränke mit Countdowns anzeigen.
+
+angel_client.mod.potion_effects.option.alignment=Ausrichtung
+angel_client.mod.potion_effects.option.icon=Symbol
+angel_client.mod.potion_effects.option.background=Hintergrund
+angel_client.mod.potion_effects.option.title=Etikett
+angel_client.mod.potion_effects.option.titleColour=Etikettfarbe
+angel_client.mod.potion_effects.option.duration=Haltbarkeit
+angel_client.mod.potion_effects.option.durationColour=Haltbarkeitsfarbe
+angel_client.mod.potion_effects.option.spacing=Abstand
+
+angel_client.mod.armour.name=Ausrüstung
+angel_client.mod.armour.description=Ausrüsting mit Haltbarkeit anzeigen.
+
+angel_client.mod.armour.option.durability=Haltbarkeit
+angel_client.mod.armour.option.durability.remaining=Übrige
+angel_client.mod.armour.option.durability.percentage=Prozentanzahl
+angel_client.mod.armour.option.durability.fraction=Fraktion
+
+angel_client.mod.armour.option.armour=Rüstung anzeigen
+angel_client.mod.armour.option.hand=Item anzeigen
+
+angel_client.mod.timers.name=Timers
+angel_client.mod.timers.description=Timers anzeigen für ingame Ereignisse.
+
+angel_client.mod.timers.option.alignment=Ausrichtung
+angel_client.mod.timers.option.icon=Symbol
+angel_client.mod.timers.option.nameColour=Etikettfarbe
+angel_client.mod.timers.option.timeColour=Zeitfarbe
+
+angel_client.mod.chat.name=Chat
+angel_client.mod.chat.description=Passe den ingame chat an.
+
+angel_client.mod.chat.peek=Gucken
+angel_client.mod.chat.option.preventClose=Schließen verhindern
+angel_client.mod.chat.option.smooth=Nachrichtanimation
+angel_client.mod.chat.option.infiniteChat=Unendlicher Chat
+angel_client.mod.chat.option.peekKey=Guck Taste
+
+angel_client.mod.chat.option.visibility=Sichtbarkeit
+angel_client.mod.chat.option.visibility.shown=Gezeigt
+angel_client.mod.chat.option.visibility.commands=Nur Aufforderungen
+angel_client.mod.chat.option.visibility.hidden=Versteckt
+
+angel_client.mod.chat.option.defaultTextColour=Standard Textfarbe
+angel_client.mod.chat.option.colours=Farben
+angel_client.mod.chat.option.width=Breite
+angel_client.mod.chat.option.closedHeight=Geschlossene Höhe
+angel_client.mod.chat.option.openHeight=Offene Höhe
+angel_client.mod.chat.option.links=Links
+angel_client.mod.chat.option.promptLinks=Prompt Links
+angel_client.mod.chat.option.chatFilter=Chatfilter ermöglichen
+angel_client.mod.chat.option.filteredWordsContent=Gefilterte Wörter
+
+angel_client.mod.tab_list.name=Tabliste
+angel_client.mod.tab_list.description=Passe die Tab- oder Playerliste an.
+
+angel_client.mod.tab_list.option.hideHeader=Kopfzeile verstecken
+angel_client.mod.tab_list.option.hideFooter=Fußzeile verstecken
+
+angel_client.mod.tab_list.option.pingType=Ping
+angel_client.mod.tab_list.option.pingType.none=Versteckt
+angel_client.mod.tab_list.option.pingType.icon=Symbol
+angel_client.mod.tab_list.option.pingType.numeral=Nummer
+
+angel_client.mod.tab_list.option.backgroundColour=Listenhintergrundfarbe
+angel_client.mod.tab_list.option.entryBackgroundColour=Eintraghintergrundfarbe
+angel_client.mod.tab_list.option.hidePlayerHeads=Spielerköpfe verstecken
+angel_client.mod.tab_list.option.textShadow=Textschatten
+
+angel_client.mod.crosshair.name=Fadenkreuz
+angel_client.mod.crosshair.description=Passe das Fadenkreuz an.
+
+angel_client.mod.crosshair.option.style=Stil
+angel_client.mod.crosshair.option.style.default=Standard
+angel_client.mod.crosshair.option.style.none=Keine
+angel_client.mod.crosshair.option.style.dot=Punkt
+angel_client.mod.crosshair.option.style.plus=Plus
+angel_client.mod.crosshair.option.style.plus_dot=Pluspunkt
+angel_client.mod.crosshair.option.style.square=Viereck
+angel_client.mod.crosshair.option.style.square_dot=Viereckspunkt
+angel_client.mod.crosshair.option.style.circle=Kreis
+angel_client.mod.crosshair.option.style.circle_dot=Kreispunkt
+angel_client.mod.crosshair.option.style.four_angled=4 abgewinkelt
+angel_client.mod.crosshair.option.style.four_angled_dot=4 abgewinkelter Punkt
+angel_client.mod.crosshair.option.style.triangle=Dreieck
+
+angel_client.mod.crosshair.option.thirdPerson=In der dritten Person anzeigen
+angel_client.mod.crosshair.option.spectatorAlways=Im Zuschauermodus anzeigen
+angel_client.mod.crosshair.option.debug=Im Debug Overlay anzeigen
+angel_client.mod.crosshair.option.blending=Mischen
+angel_client.mod.crosshair.option.crosshairColour=Farbe
+angel_client.mod.crosshair.option.highlightEntities=Kreaturen markieren
+angel_client.mod.crosshair.option.entityColour=Kreaturfarbe
+
+angel_client.mod.scoreboard.name=Scoreboard
+angel_client.mod.scoreboard.description=Passe das Scoreboard an.
+
+angel_client.mod.scoreboard.option.backgroundColourTop=Oberhintergrundfarbe
+angel_client.mod.scoreboard.option.numbers=Nummern
+angel_client.mod.scoreboard.option.numbersColour=Nummerfarbe
+
+angel_client.mod.tweaks.name=Optimierungen
+angel_client.mod.tweaks.description=Mehrere Spieloptimierungen einschließlich Vollhelligkeit.
+
+angel_client.mod.tweaks.option.fullbright=Vollhelligkeit
+angel_client.mod.tweaks.option.showOwnTag=Eigenen Nametag anzeigen
+angel_client.mod.tweaks.option.arabicNumerals=Arabische Ziffern
+angel_client.mod.tweaks.option.betterTooltips=Bessere Kurzinfos
+angel_client.mod.tweaks.option.minimalViewBobbing=Minimales Wippen der Sicht
+angel_client.mod.tweaks.option.minimalDamageShake=Minimales Schadensschütteln
+angel_client.mod.tweaks.option.damageShakeIntensity=Schadensschütteln Intensität
+angel_client.mod.tweaks.option.confirmDisconnect=Trennung bestätigen
+angel_client.mod.tweaks.option.borderlessFullscreen=Grenzenloser Vollbildschirm
+angel_client.mod.tweaks.option.betterKeyBindings=Bessere Tastenbindungen
+angel_client.mod.tweaks.option.disableHotbarScrolling=Hotbarscrollen deaktivieren
+
+angel_client.mod.tweaks.confirm_disconnect=Drücke noch ein Mal um zu bestätigen
+
+angel_client.mod.freelook.name=Freischauen
+angel_client.mod.freelook.description=Schalte Kamerarotation vom Kopf des Spielers frei.
+
+angel_client.mod.freelook.key=Freischauen
+angel_client.mod.freelook.option.key=Taste
+
+angel_client.mod.freelook.option.perspective=Perspektive
+angel_client.mod.freelook.option.invertPitch=Maus vertikal invertieren
+angel_client.mod.freelook.option.invertYaw=Maus horizontal invertieren
+
+angel_client.mod.taplook.name=Drückschauen
+angel_client.mod.taplook.description=Ändere deine Perspektive indem du einen Button gedrückt haltest.
+
+angel_client.mod.taplook.key=Drückschauen
+angel_client.mod.taplook.option.key=Taste
+angel_client.mod.taplook.option.perspective=Perspektive
+
+angel_client.mod.toggle_sprint.name=Umschaltsprint
+angel_client.mod.toggle_sprint.description=Schalte die Sprinttaste um.
+
+angel_client.mod.toggle_sprint.option.hud=HUD
+
+angel_client.mod.toggle_sprint.held=Sprinten (Gehalten)
+angel_client.mod.toggle_sprint.toggled=Sprinten (Umgesch.)
+
+angel_client.mod.zoom.name=Zoom
+angel_client.mod.zoom.description=Reinzoomen, wenn man eine Taste drückt.
+
+angel_client.mod.zoom.key=Zoom
+angel_client.mod.zoom.option.key=Taste
+angel_client.mod.zoom.zoom_out=Rauszoomen
+angel_client.mod.zoom.option.zoomOutKey=Rauszoom Taste
+angel_client.mod.zoom.zoom_in=Reinzoomen
+angel_client.mod.zoom.option.zoomInKey=Reinzoom Taste
+angel_client.mod.zoom.option.cinematic=Filmische Kamera
+angel_client.mod.zoom.option.reduceSensitivity=Empfindlichkeit reduzieren
+angel_client.mod.zoom.option.scrolling=Scrollen beim Zoomen
+angel_client.mod.zoom.option.smooth=Zoom Animation
+angel_client.mod.zoom.option.factor=Zoom Faktor
+
+angel_client.mod.replay.name=Wiedergabe
+angel_client.mod.replay.description=Nehme und wiedergebe deinen Gameplay auf.
+
+angel_client.mod.replay.option.enableNotifications=Benachrichtigungen ermöglichen
+angel_client.mod.replay.option.recordSingleplayer=Singleplayer aufnehmen
+angel_client.mod.replay.option.recordServer=Server aufnehmen
+angel_client.mod.replay.option.recordingIndicator=Aufnahmeanzeige
+angel_client.mod.replay.option.recordingIndicatorColour=Farbe der Aufnahmeanzeige
+angel_client.mod.replay.option.recordingIndicatorScale=Größe der Aufnahmeanzeige
+angel_client.mod.replay.option.recordingIndicatorTextColour=Textfarbe der Aufnahmeanzeige
+angel_client.mod.replay.option.recordingIndicatorTextShadow=Textschatten der Aufnahmeanzeige
+angel_client.mod.replay.option.automaticRecording=Automatische Aufnahme
+angel_client.mod.replay.option.renameDialog=Dialog umbenennen
+angel_client.mod.replay.option.showChat=Chat anzeigen
+
+angel_client.mod.replay.option.camera=Kamera
+angel_client.mod.replay.option.camera.classic=Klassisch
+angel_client.mod.replay.option.camera.vanilla_ish=Vanilla-isch
+
+angel_client.mod.replay.option.showPathPreview=Weg Vorschau anzeigen
+
+angel_client.mod.replay.option.defaultInterpolator=Standard Interpolator
+angel_client.mod.replay.interpolator.catmull=Catmull-Rom Spline
+angel_client.mod.replay.interpolator.cubic=Würfeliger Spline
+angel_client.mod.replay.interpolator.linear=Geradlinig
+
+angel_client.mod.replay.option.showServerIPs=Server IPs anzeigen
+
+angel_client.mod.quickplay.name=Schnellspiel
+angel_client.mod.quickplay.description=Reihe schnell in Spielen ein mit der Tastatur.
+
+angel_client.mod.quickplay.key=Schnellspiel
+angel_client.mod.quickplay.option.menuKey=Taste
+
+angel_client.mod.hypixel_util.name=Hypixel Ergänzungen
+angel_client.mod.hypixel_util.description=Mehrere Verbesserungen zur Erfahrung auf Hypixel.
+
+angel_client.mod.hypixel_util.option.visitHousingCommand=/visithousing
+angel_client.mod.hypixel_util.option.lobbySoundsVolume=Lobby Sounds Lautstärke
+angel_client.mod.hypixel_util.option.housingMusicVolume=Housing Musik Lautstärke
+angel_client.mod.hypixel_util.option.popupEvents=Popup Ereignisse
+angel_client.mod.hypixel_util.option.autogg=Auto GG
+angel_client.mod.hypixel_util.option.autoggMessage=GG Nachricht
+angel_client.mod.hypixel_util.option.hidegg=GG verstecken
+angel_client.mod.hypixel_util.option.autogl=Auto GL
+angel_client.mod.hypixel_util.option.autoglMessage=GL Nachricht
+angel_client.mod.hypixel_util.option.hidegl=GL verstecken
+angel_client.mod.hypixel_util.option.levelhead=Level Kopf
+
+angel_client.mod.tnt_timer.name=TNT Stoppuhr
+angel_client.mod.tnt_timer.description=Explosionszeit von TNT anzeigen.
+
+angel_client.mod.motion_blur.name=Bewegungsverschwommenheit
+angel_client.mod.motion_blur.description=Sanfter Bewegungsverschwommenheitseffekt.
+
+angel_client.mod.motion_blur.option.blur=Verschwommenheit
+
+angel_client.mod.menu_blur.name=Menüverschwommenheit
+angel_client.mod.menu_blur.description=Verschwimme die Hintergrunde von den Menüs.
+
+angel_client.mod.menu_blur.option.blur=Verschwommenheit
+angel_client.mod.menu_blur.option.fadeTime=Verblasszeit
+angel_client.mod.menu_blur.option.backgroundColour=Hintergrundfarbe
+
+angel_client.mod.colour_saturation.name=Farbsättigung
+angel_client.mod.colour_saturation.description=Stelle die Farbsättigung der Welt ein.
+
+angel_client.mod.colour_saturation.option.saturation=Sättigung
+
+angel_client.mod.chunk_animator.name=Chunk Animierer
+angel_client.mod.chunk_animator.description=Animiere die Welt während sie lädt.
+
+angel_client.mod.chunk_animator.option.duration=Dauer
+angel_client.mod.chunk_animator.option.animation=Animation
+
+angel_client.mod.1.7_visuals.name=1.7 Sichtbarkeiten
+angel_client.mod.1.7_visuals.description=Bringe ein paar Animationen und das Gefühl von 1.7 zurück.
+
+angel_client.mod.1.7_visuals.option.useAndMine=Blockieren und Graben
+angel_client.mod.1.7_visuals.option.particles=Partikel
+angel_client.mod.1.7_visuals.option.blocking=Schwert Blöcken
+angel_client.mod.1.7_visuals.option.eatingAndDrinking=Essen und Trinken
+angel_client.mod.1.7_visuals.option.rod=Angel
+angel_client.mod.1.7_visuals.option.bow=Bogen
+angel_client.mod.1.7_visuals.option.armourDamage=Schadeneffekt auf Rüstung
+angel_client.mod.1.7_visuals.option.sneaking=Sanftes Schleichen
+
+angel_client.mod.item_physics.name=Item Physik
+angel_client.mod.item_physics.description=Füge eine drehende Animation zu den Items hinzu.
+
+angel_client.mod.item_physics.option.rotationSpeed=Rotationsgeschwindigkeit
+
+angel_client.mod.particles.name=Partikel
+angel_client.mod.particles.description=Angriffspartikel einstellen und vermehren.
+
+angel_client.mod.particles.option.multiplier=Vermehrer
+angel_client.mod.particles.option.sharpness=Immer Schärfe zeigen
+angel_client.mod.particles.option.snow=Schnee
+angel_client.mod.particles.option.slime=Schleim
+angel_client.mod.particles.option.flames=Flammen
+
+angel_client.mod.time_changer.name=Zeitwechsler
+angel_client.mod.time_changer.description=Ändere die visuelle Zeit, ohne das Gameplay zu beeinträchtigen.
+
+angel_client.mod.time_changer.option.time=Zeit
+
+angel_client.mod.block_selection.name=Blockauswahl
+angel_client.mod.block_selection.description=Passe die Block Auswahl an.
+
+angel_client.mod.block_selection.option.outline=Umriss
+angel_client.mod.block_selection.option.outlineWidth=Umrissbreite
+angel_client.mod.block_selection.option.outlineColour=Umrissfarbe
+angel_client.mod.block_selection.option.fill=Füllen
+angel_client.mod.block_selection.option.fillColour=Füllfarbe
+angel_client.mod.block_selection.option.depth=Tiefe
+angel_client.mod.block_selection.option.persistent=Ausdauernd
+
+angel_client.mod.hit_colour.name=Trefferfarbe
+angel_client.mod.hit_colour.description=Ändere die Farbe beim Treffen anderer Spieler.
+
+angel_client.mod.hit_colour.option.colour=Farbe
+
+angel_client.mod.hitbox.description=Kreaturen Hitbox Anzeigen einfach umschalten und anpassen.
+
+angel_client.mod.hitbox.option.toggleHitboxes=Hitbox umschalten
+angel_client.mod.hitbox.option.boundingBox=Begrenzungsbox anzeigen
+angel_client.mod.hitbox.option.boundingBoxColour=Begrenzungsbox Farbe
+angel_client.mod.hitbox.option.eyeHeight=Augenhöhe anzeigen
+angel_client.mod.hitbox.option.eyeHeightColour=Augenhöhen Farbe
+angel_client.mod.hitbox.option.lookVector=Sichtvektor anzeigen
+angel_client.mod.hitbox.option.lookVectorColour=Sichtvektor Farbe
+angel_client.mod.hitbox.option.lineWidth=Linienweite
+
+angel_client.mod.category.general.name=Allgemeines
+angel_client.mod.category.hud.name=HUD
+angel_client.mod.category.utility.name=Nützliches
+angel_client.mod.category.visual.name=Visuelles
+angel_client.mod.category.integration.name=Integration
+
+angel_client.mod.discord_integration.name=Discord Integration
+angel_client.mod.discord_integration.description=Integrations features für Discord, einschließlich Aktivitäten und Overlay.
+
+angel_client.mod.discord_integration.option.voiceChatHud=Sprach Chat HUD
+angel_client.mod.discord_integration.option.voiceChatHudScale=Sprach Chat HUD Größe
+angel_client.mod.discord_integration.option.voiceChatHudAlignment=Sprach Chat HUD Ausrichtung
+angel_client.mod.discord_integration.option.usernameColour=Benutzername Farbe
+angel_client.mod.discord_integration.option.mutedColour=Stummgeschaltete Farbe
+angel_client.mod.discord_integration.option.speakingColour=Sprechende Farbe
+
+angel_client.mod.screen.title=Mods
+angel_client.mod.screen.search=Gebe etwas ein, um zu suchen
+
+angel_client.hud.edit=HUD bearbeiten
+
+angel_client.packs.apply=Apply
+angel_client.packs.open_folder=Pack Ordner
+angel_client.packs.folder=Ordner (%d items)
+
+angel_client.screenshot.view=Ansehen
+angel_client.screenshot.open_folder=Im Ordner anzeigen

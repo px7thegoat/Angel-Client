@@ -1,0 +1,21 @@
+{
+    "required": true,
+    "package": "com.replaymod.recording.mixin",
+    "mixins": [],
+    "server": [],
+    "client": [
+        "AddServerScreenAccessor",
+        "EntityLivingBaseAccessor",
+        "IntegratedServerAccessor",
+        "MixinNetHandlerLoginClient",
+        "MixinNetHandlerPlayClient",
+        "MixinRenderGlobal",
+        "MixinServerInfo",
+        "NetworkManagerAccessor",
+        "SPacketSpawnMobAccessor",
+        "SPacketSpawnPlayerAccessor"
+    ],
+    "compatibilityLevel": "JAVA_8",
+    "minVersion": "0.6.11",
+    "refmap": "mixins.angelclient.refmap.json"
+}

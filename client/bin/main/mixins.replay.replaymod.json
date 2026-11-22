@@ -1,0 +1,30 @@
+{
+    "required": true,
+    "package": "com.replaymod.replay.mixin",
+    "mixins": [],
+    "server": [],
+    "client": [
+        "entity_tracking.Mixin_EntityExt",
+        "entity_tracking.Mixin_FixPartialUpdates",
+        "Mixin_FixNPCSkinCaching",
+        "Mixin_FixHandOffsetTickDelta",
+        "ClientWorldAccessor",
+        "EntityLivingBaseAccessor",
+        "EntityOtherPlayerMPAccessor",
+        "EntityPlayerAccessor",
+        "FirstPersonRendererAccessor",
+        "MixinGuiSpectator",
+        "MixinRenderArrow",
+        "MixinRenderManager",
+        "MixinViewFrustum",
+        "MixinKeyboardListener",
+        "MixinPlayerControllerMP",
+        "MixinRenderItem",
+        "MixinRenderLivingBase",
+        "MixinTileEntityEndPortalRenderer",
+        "MixinWorldClient"
+    ],
+    "compatibilityLevel": "JAVA_8",
+    "minVersion": "0.6.11",
+    "refmap": "mixins.angelclient.refmap.json"
+}

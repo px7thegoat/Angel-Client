@@ -1,0 +1,439 @@
+angel_client.passthrough=%s
+angel_client.slider.percent=%s%%
+angel_client.slider.factor=%sx
+angel_client.slider.seconds=%ss
+
+angel_client.vertical_alignment.top=Trên
+angel_client.vertical_alignment.middle=Giữa
+angel_client.vertical_alignment.bottom=Cuối
+
+angel_client.perspective.first_person=Góc nhìn thứ nhất
+angel_client.perspective.third_person_back=Góc nhìn thứ 3 phía sau
+angel_client.perspective.third_person_front=Góc nhìn thứ 3 phía trước
+
+angel_client.easing.linear=Linear
+angel_client.easing.quad=Quad
+angel_client.easing.cubic=Cubic
+angel_client.easing.quart=Quart
+angel_client.easing.quint=Quint
+angel_client.easing.expo=Expo
+angel_client.easing.sine=Sine
+angel_client.easing.circ=Circ
+angel_client.easing.back=Back
+angel_client.easing.bounce=Bounce
+angel_client.easing.elastic=Elastic
+
+angel_client.file.edit=Chỉnh sửa tập tin...
+
+angel_client.servers=Danh sách máy chủ
+
+angel_client.key.category=Angel Client
+angel_client.key.accept_request=Chấp nhận yêu cầu
+angel_client.key.dismiss_request=Từ chối yêu cầu
+
+angel_client.mod.generic.option.enabled=Bật
+angel_client.mod.hud.option.scale=Độ lớn
+angel_client.mod.simple_hud.option.background=Nền
+angel_client.mod.simple_hud.option.backgroundColour=Màu nền
+angel_client.mod.simple_hud.option.border=Viền
+angel_client.mod.simple_hud.option.borderColour=Màu viền
+angel_client.mod.simple_hud.option.textColour=Màu chữ
+angel_client.mod.simple_hud.option.shadow=Bóng chữ
+angel_client.mod.smooth_counter_hud.option.smoothNumbers=Hiệu ứng nhảy số
+
+angel_client.mod.angel_client.name=Angel Client
+angel_client.mod.angel_client.description=Các thiết lập chung của Angel Client.
+
+angel_client.mod.angel_client.option.fancyMainMenu=Sử dụng Màn hình chính của Angel
+angel_client.mod.angel_client.option.logoInInventory=Hiện Logo ở giao diện Túi đồ
+angel_client.mod.angel_client.mods=Mods
+angel_client.mod.angel_client.option.modsKey=Phím tắt mở Danh sách Mod
+angel_client.mod.angel_client.edit_hud=Chỉnh sửa HUD
+angel_client.mod.angel_client.option.editHudKey=Chỉnh sửa phím tắt HUD
+angel_client.mod.angel_client.option.uiColour=Màu sắc chủ đạo
+angel_client.mod.angel_client.option.smoothUIColours=Làm mượt màu sắc chủ đạo
+angel_client.mod.angel_client.option.roundedUI=Giao diện bo tròn
+angel_client.mod.angel_client.option.buttonClicks=Âm thanh khi nhấn nút
+angel_client.mod.angel_client.option.smoothScrolling=Làm mượt cuộn trang
+angel_client.mod.angel_client.option.fancyFont=Phông chữ HD
+
+angel_client.mod.fps.name=FPS
+angel_client.mod.fps.description=Hiện FPS (Số lượng khung hình mỗi giây).
+
+angel_client.mod.coordinates.name=Toạ độ
+angel_client.mod.coordinates.description=Hiện toạ độ của bạn.
+
+angel_client.mod.coordinates.option.axisLabelColour=Màu tiêu đề của toạ độ
+angel_client.mod.coordinates.option.axisValueColour=Màu giá trị toạ độ
+angel_client.mod.coordinates.option.cardinalDirection=Hướng đang nhìn
+angel_client.mod.coordinates.option.cardinalDirectionColour=Màu hướng đang nhìn
+angel_client.mod.coordinates.option.axisDirection=Hướng thay đổi giá trị
+angel_client.mod.coordinates.option.axisDirectionColour=Màu hướng thay đổi giá trị
+
+angel_client.mod.keystrokes.name=Keystrokes
+angel_client.mod.keystrokes.description=Hiển thị phím đang được ấn.
+
+angel_client.mod.keystrokes.option.movement=Di chuyển
+angel_client.mod.keystrokes.option.mouse=Chuột
+angel_client.mod.keystrokes.option.mouseMovement=Di chuyển chuột
+angel_client.mod.keystrokes.option.showSpace=Dấu cách
+angel_client.mod.keystrokes.option.cps=Hiện CPS cho phím
+angel_client.mod.keystrokes.option.backgroundColourPressed=Màu nền (Khi ấn)
+angel_client.mod.keystrokes.option.borderColourPressed=Màu viền (Khi ấn)
+angel_client.mod.keystrokes.option.textColourPressed=Màu chữ (Khi ấn)
+angel_client.mod.keystrokes.option.smoothColours=Làm mượt màu sắc
+
+angel_client.mod.cps.name=CPS
+angel_client.mod.cps.description=Hiển thị CPS (Số lần click mỗi giây).
+
+angel_client.mod.cps.option.rmb=CPS chuột phải
+angel_client.mod.cps.option.separatorColour=Màu phân cách
+
+angel_client.mod.ping.name=Ping
+angel_client.mod.ping.description=Hiển thị độ trễ của kết nối đến máy chủ.
+
+angel_client.mod.ping.option.source=Nguồn thông tin
+angel_client.mod.ping.option.source.auto=Tự động
+angel_client.mod.ping.option.source.multiplayer_screen=Ở màn hình Chọn máy chủ
+angel_client.mod.ping.option.source.tab_list=Ở Tab
+
+angel_client.mod.speedometer.name=Bộ đếm tốc độ
+angel_client.mod.speedometer.description=Hiển thị tốc độ di chuyển.
+
+angel_client.mod.speedometer.option.graphMode=Chế độ đồ thị
+
+angel_client.mod.reach_display.name=Reach Display
+angel_client.mod.reach_display.description=Hiển thị khoảng cách khi PVP.
+
+angel_client.mod.combo_counter.name=Bộ đếm Combo
+angel_client.mod.combo_counter.description=Hiển thị số lần đánh trúng liên tiếp.
+
+angel_client.mod.combo_counter.no_hits=Chưa đánh trúng
+angel_client.mod.combo_counter.one_hit=1 lần đánh trúng liên tục
+angel_client.mod.combo_counter.n_hits=%s lần đánh trúng liên tục
+
+angel_client.mod.potion_effects.name=Hiệu ứng thuốc
+angel_client.mod.potion_effects.description=Hiển thị hiệu ứng thuốc đang có hiệu lực và thời gian còn lại.
+
+angel_client.mod.potion_effects.option.alignment=Căn lề
+angel_client.mod.potion_effects.option.icon=Biểu tượng
+angel_client.mod.potion_effects.option.background=Nền
+angel_client.mod.potion_effects.option.title=Tên thuốc
+angel_client.mod.potion_effects.option.titleColour=Màu chữ
+angel_client.mod.potion_effects.option.duration=Thời gian còn lại
+angel_client.mod.potion_effects.option.durationColour=Màu thời gian
+angel_client.mod.potion_effects.option.spacing=Khoảng cách giữa các hiệu ứng
+
+angel_client.mod.armour.name=Giáp và công cụ
+angel_client.mod.armour.description=Hiển thị giáp và công cụ cùng với độ bền hiện tại.
+
+angel_client.mod.armour.option.durability=Độ bền
+angel_client.mod.armour.option.durability.remaining=Còn lại
+angel_client.mod.armour.option.durability.percentage=Phần trăm
+angel_client.mod.armour.option.durability.fraction=Phân số
+
+angel_client.mod.armour.option.armour=Hiển thị giáp đang mặc
+angel_client.mod.armour.option.hand=Hiển thị vật phẩm đang cầm trên tay
+
+angel_client.mod.timers.name=Bộ đếm thời gian sự kiện
+angel_client.mod.timers.description=Hiển thị thời gian còn lại của các sự kiện.
+
+angel_client.mod.timers.option.alignment=Căn lề
+angel_client.mod.timers.option.icon=Biểu tượng
+angel_client.mod.timers.option.nameColour=Màu chữ
+angel_client.mod.timers.option.timeColour=Màu thời gian
+
+angel_client.mod.chat.name=Trò chuyện
+angel_client.mod.chat.description=Tuỳ chỉnh khung trò chuyện.
+
+angel_client.mod.chat.peek=Mở trò chuyện nhanh
+angel_client.mod.chat.option.preventClose=Ngăn việc đóng khung trò chuyện tự động
+angel_client.mod.chat.option.smooth=Hiệu ứng chat chạy lên khi có trò chuyện mới
+angel_client.mod.chat.option.infiniteChat=Lịch sử trò chuyện không giới hạn
+angel_client.mod.chat.option.peekKey=Phím tắt đọc trò chuyện nhanh
+
+angel_client.mod.chat.option.visibility=Hiển thị trò chuyện
+angel_client.mod.chat.option.visibility.shown=Mở
+angel_client.mod.chat.option.visibility.commands=Chỉ khi nhập lệnh
+angel_client.mod.chat.option.visibility.hidden=Đóng
+
+angel_client.mod.chat.option.defaultTextColour=Màu chữ mặc định
+angel_client.mod.chat.option.colours=Màu sắc
+angel_client.mod.chat.option.width=Độ rộng
+angel_client.mod.chat.option.closedHeight=Chiều cao chat khi đóng
+angel_client.mod.chat.option.openHeight=Chiều cao chat khi mở
+angel_client.mod.chat.option.links=Liên kết
+angel_client.mod.chat.option.promptLinks=Nhắc nhở khi ấn vào liên kết
+angel_client.mod.chat.option.chatFilter=Bật bộ lọc chat
+angel_client.mod.chat.option.filteredWordsContent=Danh sách các từ bị lọc
+
+angel_client.mod.tab_list.name=Tab List
+angel_client.mod.tab_list.description=Tuỳ chỉnh tab/danh sách người chơi.
+
+angel_client.mod.tab_list.option.hideHeader=Ẩn Header
+angel_client.mod.tab_list.option.hideFooter=Ẩn Footer
+
+angel_client.mod.tab_list.option.pingType=Ping
+angel_client.mod.tab_list.option.pingType.none=Ẩn
+angel_client.mod.tab_list.option.pingType.icon=Biểu tượng
+angel_client.mod.tab_list.option.pingType.numeral=Số
+
+angel_client.mod.tab_list.option.backgroundColour=Màu nền chung
+angel_client.mod.tab_list.option.entryBackgroundColour=Màu nền từng dòng
+angel_client.mod.tab_list.option.hidePlayerHeads=Ẩn biểu tượng đầu người chơi
+angel_client.mod.tab_list.option.textShadow=Bóng đổ chữ
+
+angel_client.mod.crosshair.name=Hồng tâm
+angel_client.mod.crosshair.description=Tuỳ chỉnh hồng tâm.
+
+angel_client.mod.crosshair.option.style=Kiểu hồng tâm.
+angel_client.mod.crosshair.option.style.default=Mặc định
+angel_client.mod.crosshair.option.style.none=Ẩn hoàn toàn
+angel_client.mod.crosshair.option.style.dot=Chấm
+angel_client.mod.crosshair.option.style.plus=Dấu cộng
+angel_client.mod.crosshair.option.style.plus_dot=Dấu cộng chấm
+angel_client.mod.crosshair.option.style.square=Hình vuông
+angel_client.mod.crosshair.option.style.square_dot=Hình vuông chấm
+angel_client.mod.crosshair.option.style.circle=Hình tròn
+angel_client.mod.crosshair.option.style.circle_dot=Hình tròn chấm
+angel_client.mod.crosshair.option.style.four_angled=Gạch chéo
+angel_client.mod.crosshair.option.style.four_angled_dot=Gạch chéo chấm
+angel_client.mod.crosshair.option.style.triangle=Tam giác
+
+angel_client.mod.crosshair.option.thirdPerson=Hiển thị ở góc nhìn thứ 3
+angel_client.mod.crosshair.option.spectatorAlways=Hiển thị ở chế độ Khán giả
+angel_client.mod.crosshair.option.debug=Hiển thị ở Màn hình Gỡ rối
+angel_client.mod.crosshair.option.blending=Hoà trộn màu
+angel_client.mod.crosshair.option.crosshairColour=Màu hồng tâm
+angel_client.mod.crosshair.option.highlightEntities=Đổi màu khi đưa vào thực thể
+angel_client.mod.crosshair.option.entityColour=Màu khi đưa vào thực thể
+
+angel_client.mod.scoreboard.name=Scoreboard
+angel_client.mod.scoreboard.description=Tuỳ chỉnh scoreboard.
+
+angel_client.mod.scoreboard.option.hide=Tắt scoreboard
+angel_client.mod.scoreboard.option.backgroundColourTop=Màu tiêu đề
+angel_client.mod.scoreboard.option.numbers=Hiển thị số ở cuối hàng
+angel_client.mod.scoreboard.option.numbersColour=Màu số
+
+angel_client.mod.tweaks.name=Tinh chỉnh khác
+angel_client.mod.tweaks.description=Các tinh chỉnh khác, bao gồm fullbright.
+
+angel_client.mod.tweaks.option.fullbright=Fullbright
+angel_client.mod.tweaks.option.showOwnTag=Hiển thị tên của chính mình
+angel_client.mod.tweaks.option.arabicNumerals=Sử dụng Số La Mã
+angel_client.mod.tweaks.option.betterTooltips=Chú giải vật phẩm tốt hơn
+angel_client.mod.tweaks.option.minimalViewBobbing=Hạn chế lay động tầm nhìn
+angel_client.mod.tweaks.option.minimalDamageShake=Hạn chế rung màn hình khi nhận sát thương
+angel_client.mod.tweaks.option.damageShakeIntensity=Độ rung màn hình khi nhận sát thương
+angel_client.mod.tweaks.option.confirmDisconnect=Xác nhận khi thoát khỏi máy chủ
+angel_client.mod.tweaks.option.borderlessFullscreen=Toàn màn hình không viền
+angel_client.mod.tweaks.option.betterKeyBindings=Nhận diện phím tắt tốt hơn
+angel_client.mod.tweaks.option.disableHotbarScrolling=Vô hiệu hoá thanh cuộn Hotbar
+
+angel_client.mod.tweaks.confirm_disconnect=Ấn một lần nữa để thoát khỏi máy chủ
+
+angel_client.mod.freelook.name=Freelook
+angel_client.mod.freelook.description=Tự do nhìn xung quanh.
+
+angel_client.mod.freelook.key=Freelook
+angel_client.mod.freelook.option.key=Phím tắt
+
+angel_client.mod.freelook.option.perspective=Hướng nhìn
+angel_client.mod.freelook.option.invertPitch=Đảo ngược hướng dọc của chuột
+angel_client.mod.freelook.option.invertYaw=Đảo ngược hướng ngang của chuột
+
+angel_client.mod.taplook.name=Taplook
+angel_client.mod.taplook.description=Chuyển đổi góc nhìn nhanh bằng phím tắt.
+
+angel_client.mod.taplook.key=Taplook
+angel_client.mod.taplook.option.key=Phím tắt
+angel_client.mod.taplook.option.perspective=Góc nhìn khi ấn
+
+angel_client.mod.toggle_sprint.name=Toggle Sprint
+angel_client.mod.toggle_sprint.description=Khoá phím chạy.
+
+angel_client.mod.toggle_sprint.default_width=113
+
+angel_client.mod.toggle_sprint.option.hud=HUD
+
+angel_client.mod.toggle_sprint.held=Đang chạy (Giữ)
+angel_client.mod.toggle_sprint.toggled=Đang chạy (Khoá phím)
+
+angel_client.mod.zoom.name=Phóng to
+angel_client.mod.zoom.description=Phóng to màn hình
+
+angel_client.mod.zoom.key=Phóng to
+angel_client.mod.zoom.option.key=Phím tắt
+angel_client.mod.zoom.zoom_out=Thu nhỏ
+angel_client.mod.zoom.option.zoomOutKey=Phím tắt thu nhỏ
+angel_client.mod.zoom.zoom_in=Phóng to
+angel_client.mod.zoom.option.zoomInKey=Phím tắt phóng to
+angel_client.mod.zoom.option.cinematic=Camera kịch tính
+angel_client.mod.zoom.option.reduceSensitivity=Giảm tốc độ chuột
+angel_client.mod.zoom.option.scrolling=Thay đổi độ lớn bằng cuộn chuột
+angel_client.mod.zoom.option.smooth=Hiệu ứng thu phóng
+angel_client.mod.zoom.option.factor=Độ lớn thu phóng
+
+angel_client.mod.replay.name=Phát lại
+angel_client.mod.replay.description=Ghi lại diễn biến trò chơi và xem lại khi bạn muốn.
+
+angel_client.mod.replay.option.enableNotifications=Thông báo hoạt động
+angel_client.mod.replay.option.recordSingleplayer=Ghi hình chơi đơn
+angel_client.mod.replay.option.recordServer=Ghi hình chơi nhiều người
+angel_client.mod.replay.option.recordingIndicator=Hiển thị Chỉ báo Ghi hình
+angel_client.mod.replay.option.recordingIndicatorColour=Màu sắc Chỉ báo
+angel_client.mod.replay.option.recordingIndicatorScale=Kích thước Chỉ báo
+angel_client.mod.replay.option.recordingIndicatorTextColour=Màu sắc chữ
+angel_client.mod.replay.option.recordingIndicatorTextShadow=Bóng đổ chữ
+angel_client.mod.replay.option.automaticRecording=Tự động bắt đầu ghi hình
+angel_client.mod.replay.option.renameDialog=Cửa sổ đổi tên bản ghi khi hoàn tất ghi hình
+angel_client.mod.replay.option.showChat=Hiển thị Chat
+
+angel_client.mod.replay.option.camera=Dạng Camera
+angel_client.mod.replay.option.camera.classic=Cổ điển
+angel_client.mod.replay.option.camera.vanilla_ish=Vanilla-ish
+
+angel_client.mod.replay.option.showPathPreview=Hiển thị đường di chuyển của máy quay
+
+angel_client.mod.replay.option.defaultInterpolator=Interpolator mặc định
+angel_client.mod.replay.interpolator.catmull=Catmull-Rom Spline
+angel_client.mod.replay.interpolator.cubic=Cubic Spline
+angel_client.mod.replay.interpolator.linear=Linear
+
+angel_client.mod.replay.option.showServerIPs=Hiển thị địa chỉ máy chủ
+
+angel_client.mod.quickplay.name=Quick Play
+angel_client.mod.quickplay.description=Tự động tham gia game mới bằng phím tắt trên bàn phím.
+
+angel_client.mod.quickplay.key=Quick Play
+angel_client.mod.quickplay.option.menuKey=Phím tắt
+
+angel_client.mod.hypixel_util.name=Hypixel Additions
+angel_client.mod.hypixel_util.description=Các tuỳ chỉnh cải thiện trải nghiệm khi chơi Hypixel.
+
+angel_client.mod.hypixel_util.option.visitHousingCommand=/visithousing
+angel_client.mod.hypixel_util.option.lobbySoundsVolume=Độ lớn âm thanh Lobby
+angel_client.mod.hypixel_util.option.housingMusicVolume=Độ lớn âm nhạc Housing
+angel_client.mod.hypixel_util.option.popupEvents=Popup Events
+angel_client.mod.hypixel_util.option.autogg=Tự động GG
+angel_client.mod.hypixel_util.option.autoggMessage=Tin nhắn GG
+angel_client.mod.hypixel_util.option.hidegg=Ẩn tin nhắn GG
+angel_client.mod.hypixel_util.option.autogl=Tự động GL
+angel_client.mod.hypixel_util.option.autoglMessage=Tin nhắn GL
+angel_client.mod.hypixel_util.option.hidegl=Ẩn tin nhắn GL
+angel_client.mod.hypixel_util.option.levelhead=Level Head
+
+angel_client.mod.tnt_timer.name=Bộ đếm thời gian TNT
+angel_client.mod.tnt_timer.description=Hiển thị thời gian nổ của TNT.
+
+angel_client.mod.motion_blur.name=Làm mờ chuyển động.
+angel_client.mod.motion_blur.description=Hiệu ứng mờ khi màn hình di chuyển.
+
+angel_client.mod.motion_blur.option.blur=Độ mờ
+
+angel_client.mod.menu_blur.name=Nền Menu Mờ
+angel_client.mod.menu_blur.description=Làm mờ nền khi đang mở túi đồ hay giao diện bất kì.
+
+angel_client.mod.menu_blur.option.blur=Độ mờ
+angel_client.mod.menu_blur.option.fadeTime=Thời gian bắt đầu làm mờ
+angel_client.mod.menu_blur.option.backgroundColour=Màu nền
+
+angel_client.mod.colour_saturation.name=Color Saturation
+angel_client.mod.colour_saturation.description=Tuỳ chỉnh độ bão hoà của màu sắc game.
+
+angel_client.mod.colour_saturation.option.saturation=Độ bão hoà
+
+angel_client.mod.chunk_animator.name=Chunk Animator
+angel_client.mod.chunk_animator.description=Hoạt hoạ khi tải thế giới.
+
+angel_client.mod.chunk_animator.option.duration=Tốc độ hoạt hoạ
+angel_client.mod.chunk_animator.option.animation=Hoạt hoạ
+
+angel_client.mod.1.7_visuals.name=Hiệu ứng 1.7
+angel_client.mod.1.7_visuals.description=Mang trở lại hiệu ứng phiên bản 1.7.
+
+angel_client.mod.1.7_visuals.option.useAndMine=Hiệu ứng đập khi dùng vật phẩm
+angel_client.mod.1.7_visuals.option.particles=Hạt hiệu ứng
+angel_client.mod.1.7_visuals.option.blocking=Chặn kiếm
+angel_client.mod.1.7_visuals.option.eatingAndDrinking=Ăn uống
+angel_client.mod.1.7_visuals.option.rod=Cần câu
+angel_client.mod.1.7_visuals.option.bow=Cung tên
+angel_client.mod.1.7_visuals.option.armourDamage=Hiệu ứng sát thương trên giáp
+angel_client.mod.1.7_visuals.option.sneaking=Làm mượt hiệu ứng đi rón rén
+
+angel_client.mod.item_physics.name=Hiệu ứng vật lí vật phẩm
+angel_client.mod.item_physics.description=Hoạt hoạ vật phẩm rơi trên mặt đất.
+
+angel_client.mod.item_physics.option.rotationSpeed=Tốc độ Quay
+
+angel_client.mod.particles.name=Hạt hiệu ứng
+angel_client.mod.particles.description=Tuỳ chỉnh hạt hiệu ứng sát thương.
+
+angel_client.mod.particles.option.multiplier=Số lượng hạt hiệu ứng
+angel_client.mod.particles.option.sharpness=Luôn hiện hiệu ứng Sắc bén
+angel_client.mod.particles.option.snow=Tuyết
+angel_client.mod.particles.option.slime=Chất nhầy
+angel_client.mod.particles.option.flames=Lửa
+
+angel_client.mod.time_changer.name=Thay đổi thời gian
+angel_client.mod.time_changer.description=Thay đổi thời gian thế giới.
+
+angel_client.mod.time_changer.option.time=Thời gian
+
+angel_client.mod.block_selection.name=Hiệu ứng chọn khối
+angel_client.mod.block_selection.description=Tuỳ chỉnh hiệu ứng khối đang chọn.
+
+angel_client.mod.block_selection.option.outline=Viền
+angel_client.mod.block_selection.option.outlineWidth=Độ lớn viền
+angel_client.mod.block_selection.option.outlineColour=Màu viền
+angel_client.mod.block_selection.option.fill=Nền
+angel_client.mod.block_selection.option.fillColour=Màu nền
+angel_client.mod.block_selection.option.depth=Ẩn các mặt bị che
+angel_client.mod.block_selection.option.persistent=Luôn hiển thị ở mọi chế độ
+
+angel_client.mod.hit_colour.name=Hit Color
+angel_client.mod.hit_colour.description=Đổi màu hit.
+
+angel_client.mod.hit_colour.option.colour=Màu
+
+angel_client.mod.hitbox.name=Hitbox
+angel_client.mod.hitbox.description=Tuỳ chỉnh, hiển thị hitbox người chơi.
+
+angel_client.mod.hitbox.option.toggleHitboxes=Hiển thị Hitbox
+angel_client.mod.hitbox.option.boundingBox=Hiển thị viền Hitbox
+angel_client.mod.hitbox.option.boundingBoxColour=Màu sắc viền Hitbox
+angel_client.mod.hitbox.option.eyeHeight=Hiển thị độ cao mắt
+angel_client.mod.hitbox.option.eyeHeightColour=Màu độ cao mắt
+angel_client.mod.hitbox.option.lookVector=Đường chỉ hướng nhìn của người chơi
+angel_client.mod.hitbox.option.lookVectorColour=Màu đường chỉ hướng hình
+angel_client.mod.hitbox.option.lineWidth=Độ lớn đường viền
+
+angel_client.mod.category.general.name=Chung
+angel_client.mod.category.hud.name=Giao diện
+angel_client.mod.category.utility.name=Khác
+angel_client.mod.category.visual.name=Hiển thị
+angel_client.mod.category.integration.name=Tương tác
+
+angel_client.mod.discord_integration.name=Tương tác với Discord
+angel_client.mod.discord_integration.description=Các tính năng liên kết với Discord.
+
+angel_client.mod.discord_integration.option.voiceChatHud=Hiển thị HUD Voice chat
+angel_client.mod.discord_integration.option.voiceChatHudScale=Kích thước HUD
+angel_client.mod.discord_integration.option.voiceChatHudAlignment=Căn lề HUD
+angel_client.mod.discord_integration.option.usernameColour=Màu tên tài khoản mặc định
+angel_client.mod.discord_integration.option.mutedColour=Màu tên tài khoản đã tắt Mic
+angel_client.mod.discord_integration.option.speakingColour=Màu tên tài khoản đang nói
+
+angel_client.mod.screen.title=Danh sách Mod
+angel_client.mod.screen.search=Gõ để tìm kiếm
+angel_client.mod.screen.apply_to_all=Áp dụng cho toàn bộ Mod khác
+
+angel_client.hud.edit=Chỉnh sửa HUD
+
+angel_client.packs.apply=Áp dụng
+angel_client.packs.open_folder=Thư mục tài nguyên
+angel_client.packs.folder=Thư mục (%d gói tài nguyên)
+
+angel_client.screenshot.view=Mở ảnh
+angel_client.screenshot.open_folder=Hiển thị trong Thư mục

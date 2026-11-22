@@ -1,0 +1,442 @@
+angel_client.passthrough=%s
+angel_client.slider.percent=%s%%
+angel_client.slider.factor=%sx
+angel_client.slider.seconds=%ss
+
+angel_client.vertical_alignment.top=Yläosa
+angel_client.vertical_alignment.middle=Keskiosa
+angel_client.vertical_alignment.bottom=Alaosa
+
+angel_client.perspective.first_person=Ensimmäinen Persoona
+angel_client.perspective.third_person_back=Kolmas Persoona Takaa
+angel_client.perspective.third_person_front=Kolmas Persoona Edestä
+
+angel_client.easing.linear=Lineaarinen
+angel_client.easing.quad=Quad
+angel_client.easing.cubic=Cubic
+angel_client.easing.quart=Quart
+angel_client.easing.quint=Quint
+angel_client.easing.expo=Expo
+angel_client.easing.sine=Sine
+angel_client.easing.circ=Circ
+angel_client.easing.back=Back
+angel_client.easing.bounce=Bounce
+angel_client.easing.elastic=Elastinen
+
+angel_client.file.edit=Muokkaa tiedostoa...
+
+angel_client.servers=Palvelimet
+
+angel_client.key.category=Angel Client
+angel_client.key.accept_request=Hyväksy Pyyntö
+angel_client.key.dismiss_request=Hylkää Pyyntö
+
+angel_client.mod.generic.option.enabled=Käytössä
+angel_client.mod.hud.option.scale=Mittakaava
+angel_client.mod.simple_hud.option.background=Tausta
+angel_client.mod.simple_hud.option.backgroundColour=Taustan Väri
+angel_client.mod.simple_hud.option.border=Raja
+angel_client.mod.simple_hud.option.borderColour=Rajan Väri
+angel_client.mod.simple_hud.option.textColour=Tekstin Väri
+angel_client.mod.simple_hud.option.shadow=Tekstin Varjo
+angel_client.mod.smooth_counter_hud.option.smoothNumbers=Pehmeät Numerot
+
+angel_client.mod.angel_client.name=Angel Client
+angel_client.mod.angel_client.description=Yleiset asetukset.
+
+angel_client.mod.angel_client.option.fancyMainMenu=Päävalikko
+angel_client.mod.angel_client.option.logoInInventory=Näytä Logo Tavaraluettelossa
+angel_client.mod.angel_client.mods=Mods
+angel_client.mod.angel_client.option.modsKey=Mods valikon näppäin
+angel_client.mod.angel_client.edit_hud=Mukauta HUD
+angel_client.mod.angel_client.option.editHudKey=Vaihda HUD näppäin
+angel_client.mod.angel_client.option.uiColour=Aksentin Väri
+angel_client.mod.angel_client.option.smoothUIColours=Pehmeät UI Värit
+angel_client.mod.angel_client.option.roundedUI=Pyöreä UI
+angel_client.mod.angel_client.option.buttonClicks=Painikkeen napsautukset
+angel_client.mod.angel_client.option.smoothScrolling=Pehmeä Vieritys
+angel_client.mod.angel_client.option.fancyFont=HD Fontti
+
+angel_client.mod.fps.name=FPS
+angel_client.mod.fps.description=Näytä FPS (kuvat sekunnissa).
+
+angel_client.mod.coordinates.name=Kordinaatit
+angel_client.mod.coordinates.description=Näytä kordinaattisi.
+
+angel_client.mod.coordinates.option.axisLabelColour=Akselin etiketin väri
+angel_client.mod.coordinates.option.axisValueColour=Akselin arvon väri
+angel_client.mod.coordinates.option.cardinalDirection=Kardinaali suunta
+angel_client.mod.coordinates.option.cardinalDirectionColour=Kardinaalin suunnan Väri
+angel_client.mod.coordinates.option.axisDirection=Akselin Suunta
+angel_client.mod.coordinates.option.axisDirectionColour=Akselin suunnan väri
+
+angel_client.mod.keystrokes.name=Näppäinpainallukset
+angel_client.mod.keystrokes.description=Näytä pohjassa painetut näppäimet.
+
+angel_client.mod.keystrokes.option.movement=Liikkuminen
+angel_client.mod.keystrokes.option.mouse=Hiiri
+angel_client.mod.keystrokes.option.mouseMovement=Hiiren Liike
+angel_client.mod.keystrokes.option.showSpace=Välilyönti
+angel_client.mod.keystrokes.option.cps=CPS näppäimissä
+angel_client.mod.keystrokes.option.backgroundColourPressed=Taustan Väri (Painettu)
+angel_client.mod.keystrokes.option.borderColourPressed=Rajan Väri (Painettu)
+angel_client.mod.keystrokes.option.textColourPressed=Tekstin Väri (Painettu)
+angel_client.mod.keystrokes.option.smoothColours=Pehmeät Värit
+
+angel_client.mod.cps.name=CPS
+angel_client.mod.cps.description=Näytä CPS (painallukset sekunnissa).
+
+angel_client.mod.cps.option.rmb=Hiiren oikean näppäimen CPS
+angel_client.mod.cps.option.separatorColour=Erottimen Väri
+
+angel_client.mod.ping.name=Viive
+angel_client.mod.ping.description=Näytä viive nykyiselle palvelimelle.
+
+angel_client.mod.ping.option.source=Lähde
+angel_client.mod.ping.option.source.auto=Automaattinen
+angel_client.mod.ping.option.source.multiplayer_screen=Moninpeli Näyttö
+angel_client.mod.ping.option.source.tab_list=Tab List
+
+angel_client.mod.speedometer.name=Nopeusmittari
+angel_client.mod.speedometer.description=Näytä nopeutesi.
+
+angel_client.mod.speedometer.option.graphMode=Kuvaaja
+
+angel_client.mod.reach_display.name=Ulotusmittari
+angel_client.mod.reach_display.description=Näytä etäisyys osuessaan entiteettiin.
+
+angel_client.mod.combo_counter.name=Combon Laskija
+angel_client.mod.combo_counter.description=Laske peräkkäisien osumien määrä.
+
+angel_client.mod.combo_counter.no_hits=Ei comboa
+angel_client.mod.combo_counter.one_hit=1 osuma
+angel_client.mod.combo_counter.n_hits=%s osumaa
+
+angel_client.mod.potion_effects.name=Näytä Taikajuomat
+angel_client.mod.potion_effects.description=Näytä aktiiviset taikajuomat laskimella.
+
+angel_client.mod.potion_effects.option.alignment=Linjaus
+angel_client.mod.potion_effects.option.icon=Kuva
+angel_client.mod.potion_effects.option.background=Tausta
+angel_client.mod.potion_effects.option.title=Etiketti
+angel_client.mod.potion_effects.option.titleColour=Etiketin Väri
+angel_client.mod.potion_effects.option.duration=Aika
+angel_client.mod.potion_effects.option.durationColour=Ajan Väri
+angel_client.mod.potion_effects.option.spacing=Välitys
+
+angel_client.mod.armour.name=Panssari ja Varusteet
+angel_client.mod.armour.description=Näytä panssarisi ja varusteet käyttömäärän kanssa.
+
+angel_client.mod.armour.option.durability=Käyttömäärän Teksti
+angel_client.mod.armour.option.durability.off=Pois
+angel_client.mod.armour.option.durability.remaining=Jäljellä
+angel_client.mod.armour.option.durability.percentage=Prosentti
+angel_client.mod.armour.option.durability.fraction=Murto-osa
+
+angel_client.mod.armour.option.armour=Näytä panssari
+angel_client.mod.armour.option.hand=Näytä Käsi
+angel_client.mod.armour.option.horizontal=Vaakasuora
+
+angel_client.mod.timers.name=Ajastimet
+angel_client.mod.timers.description=Näytä ajastimet pelin-sisäisiin tapahtumiin.
+
+angel_client.mod.timers.option.alignment=Linjaus
+angel_client.mod.timers.option.icon=Kuvake
+angel_client.mod.timers.option.nameColour=Etiketin väri
+angel_client.mod.timers.option.timeColour=Ajan väri
+
+angel_client.mod.chat.name=Chat
+angel_client.mod.chat.description=Mukauta pelinsisäistä chat keskustelua.
+
+angel_client.mod.chat.peek=Chat keskustelun kurkistaminen
+angel_client.mod.chat.option.preventClose=Estä Sulkeminen
+angel_client.mod.chat.option.smooth=Viestin Animaatio
+angel_client.mod.chat.option.infiniteChat=Ääretön Chat Keskustelu
+angel_client.mod.chat.option.peekKey=Kurkistamisen näppäin
+
+angel_client.mod.chat.option.visibility=Näkyvyys
+angel_client.mod.chat.option.visibility.shown=Näytetään
+angel_client.mod.chat.option.visibility.commands=Vain Komennot
+angel_client.mod.chat.option.visibility.hidden=Piilotettu
+
+angel_client.mod.chat.option.defaultTextColour=Tekstin Oletusväri
+angel_client.mod.chat.option.colours=Värit
+angel_client.mod.chat.option.width=Leveys
+angel_client.mod.chat.option.closedHeight=Suljettu korkeus
+angel_client.mod.chat.option.openHeight=Avoin korkeus
+angel_client.mod.chat.option.links=Linkit
+angel_client.mod.chat.option.promptLinks=Pikalinkit
+angel_client.mod.chat.option.chatFilter=Ota chat-suodatin käyttöön
+angel_client.mod.chat.option.filteredWordsContent=Suodatetut Sanat
+
+angel_client.mod.tab_list.name=Tab Lista
+angel_client.mod.tab_list.description=Mukauta tab- tai pelaajaluoteeloa.
+
+angel_client.mod.tab_list.option.hideHeader=Piilota Otsikko
+angel_client.mod.tab_list.option.hideFooter=Piilota Alatunniste
+
+angel_client.mod.tab_list.option.pingType=Viive
+angel_client.mod.tab_list.option.pingType.none=Piilotettu
+angel_client.mod.tab_list.option.pingType.icon=Kuvake
+angel_client.mod.tab_list.option.pingType.numeral=Numero
+
+angel_client.mod.tab_list.option.backgroundColour=Luettelon taustaväri
+angel_client.mod.tab_list.option.entryBackgroundColour=Sisääntulon taustaväri
+angel_client.mod.tab_list.option.hidePlayerHeads=Piilota pelaajien päät
+angel_client.mod.tab_list.option.textShadow=Tekstin Varjo
+
+angel_client.mod.crosshair.name=Tähtäin
+angel_client.mod.crosshair.description=Mukauta tähtäintä.
+
+angel_client.mod.crosshair.option.style=Tyyli
+angel_client.mod.crosshair.option.style.default=Oletus
+angel_client.mod.crosshair.option.style.none=Ei mikään
+angel_client.mod.crosshair.option.style.dot=Piste
+angel_client.mod.crosshair.option.style.plus=Plus
+angel_client.mod.crosshair.option.style.plus_dot=Plus Piste
+angel_client.mod.crosshair.option.style.square=Neliö
+angel_client.mod.crosshair.option.style.square_dot=Neliö Piste
+angel_client.mod.crosshair.option.style.circle=Ympyrä
+angel_client.mod.crosshair.option.style.circle_dot=Ympyrä Piste
+angel_client.mod.crosshair.option.style.four_angled=4 Kulma
+angel_client.mod.crosshair.option.style.four_angled_dot=4 Kulmainen Piste
+angel_client.mod.crosshair.option.style.triangle=Kolmio
+
+angel_client.mod.crosshair.option.thirdPerson=Näytä Kolmannessa Persoonassa
+angel_client.mod.crosshair.option.spectatorAlways=Näytä katsojatilassa
+angel_client.mod.crosshair.option.debug=Näytä virheenkorjauspeittokuvassa
+angel_client.mod.crosshair.option.blending=Sekoitus
+angel_client.mod.crosshair.option.crosshairColour=Väri
+angel_client.mod.crosshair.option.highlightEntities=Korosta Entiteetit
+angel_client.mod.crosshair.option.entityColour=Entiteettien Väri
+
+angel_client.mod.scoreboard.name=Scoreboard
+angel_client.mod.scoreboard.description=Mukauta scoreboard:ia.
+
+angel_client.mod.scoreboard.option.hide=Piilota
+angel_client.mod.scoreboard.option.backgroundColourTop=Yläosan taustaväri
+angel_client.mod.scoreboard.option.numbers=Numerot
+angel_client.mod.scoreboard.option.numbersColour=Numeroiden Väri
+
+angel_client.mod.tweaks.name=Säätöjä
+angel_client.mod.tweaks.description=Erilaisia pelisäätöjä, mukaan lukien fullbright.
+
+angel_client.mod.tweaks.option.fullbright=Täysi Kirkkaus
+angel_client.mod.tweaks.option.showOwnTag=Näytä oma nimilappu
+angel_client.mod.tweaks.option.arabicNumerals=Arabialaiset numerot
+angel_client.mod.tweaks.option.betterTooltips=Paremmat Työkäluvinkit
+angel_client.mod.tweaks.option.minimalViewBobbing=Vähäinen Kuvan Keikkuminen
+angel_client.mod.tweaks.option.minimalDamageShake=Vähäinen vaurion tärinä
+angel_client.mod.tweaks.option.damageShakeIntensity=Vaurion tärinän voimakkuus
+angel_client.mod.tweaks.option.confirmDisconnect=Vahvista Yhteyden Katkaiseminen
+angel_client.mod.tweaks.option.borderlessFullscreen=Reunaton Kokonäyttö
+angel_client.mod.tweaks.option.betterKeyBindings=Paremmat näppäinasetukset
+angel_client.mod.tweaks.option.disableHotbarScrolling=Poista Hotbar-vieritys käytöstä
+angel_client.mod.tweaks.option.centredInventory=Keskitetty tavaraluettelo
+
+angel_client.mod.tweaks.confirm_disconnect=Paina uudestaan vahvistaaksesi
+
+angel_client.mod.freelook.name=Vapaakatse
+angel_client.mod.freelook.description=Irrota kameran pyöriminen pelaajan päästä.
+
+angel_client.mod.freelook.key=Vapaakatse
+angel_client.mod.freelook.option.key=Näppäin
+
+angel_client.mod.freelook.option.perspective=Perspektiivi
+angel_client.mod.freelook.option.invertPitch=Käännä hiiri pystysuunnassa
+angel_client.mod.freelook.option.invertYaw=Käännä hiiri vaakatasossa
+
+angel_client.mod.taplook.name=Taplook
+angel_client.mod.taplook.description=Vaihda perspektiivi näppäimen painalluksella.
+
+angel_client.mod.taplook.key=Taplook
+angel_client.mod.taplook.option.key=Näppäin
+angel_client.mod.taplook.option.perspective=Perspektiivi
+
+angel_client.mod.toggle_sprint.name=Juokseminen
+angel_client.mod.toggle_sprint.description=Laita Juokseminen päälle.
+
+angel_client.mod.toggle_sprint.default_width=113
+
+angel_client.mod.toggle_sprint.option.hud=HUD
+
+angel_client.mod.toggle_sprint.held=Juokseminen (Painettu)
+angel_client.mod.toggle_sprint.toggled=Juokseminen (Päällä)
+
+angel_client.mod.zoom.name=Zoomaus
+angel_client.mod.zoom.description=Zoomaa näppäimen painalluksella.
+
+angel_client.mod.zoom.key=Zoomaus
+angel_client.mod.zoom.option.key=Näppäin
+angel_client.mod.zoom.zoom_out=Zoomaa ulos
+angel_client.mod.zoom.option.zoomOutKey=Ulospäin Zoomaamisen näppäin
+angel_client.mod.zoom.zoom_in=Zoomaa sisään
+angel_client.mod.zoom.option.zoomInKey=Sisäänpäin Zoomaamisen näppäin
+angel_client.mod.zoom.option.cinematic=Elokuvakamera
+angel_client.mod.zoom.option.reduceSensitivity=Vähennä herkkyyttä
+angel_client.mod.zoom.option.scrolling=Vieritä Zoomataksesi
+angel_client.mod.zoom.option.smooth=Zoomaus Animaatio
+angel_client.mod.zoom.option.factor=Zoomaustekijä
+
+angel_client.mod.replay.name=Uudelleentoisto
+angel_client.mod.replay.description=Kuvaa ja toista pelaamisesi.
+
+angel_client.mod.replay.option.enableNotifications=Salli ilmoitukset
+angel_client.mod.replay.option.recordSingleplayer=Tallena yksinpeliä
+angel_client.mod.replay.option.recordServer=Tallena palvelinta
+angel_client.mod.replay.option.recordingIndicator=Tallennusilmaisimen
+angel_client.mod.replay.option.recordingIndicatorColour=Tallennusilmaisimen Väri
+angel_client.mod.replay.option.recordingIndicatorScale=Tallennusilmaisimen Koko
+angel_client.mod.replay.option.recordingIndicatorTextColour=Tallennusilmaisimen tekstin väri
+angel_client.mod.replay.option.recordingIndicatorTextShadow=Tallennusilmaisimen tekstin varjo
+angel_client.mod.replay.option.automaticRecording=Automaattinen tallennus
+angel_client.mod.replay.option.renameDialog=Uudelleen nimeä Dialogi
+angel_client.mod.replay.option.showChat=Näytä chat
+
+angel_client.mod.replay.option.camera=Kamera
+angel_client.mod.replay.option.camera.classic=Klassinen
+angel_client.mod.replay.option.camera.vanilla_ish=Vanilla-ish
+
+angel_client.mod.replay.option.showPathPreview=Näytä Polun Esikatselu
+
+angel_client.mod.replay.option.defaultInterpolator=Oletusinterpolaattori
+angel_client.mod.replay.interpolator.catmull=Catmull-Rom Spline
+angel_client.mod.replay.interpolator.cubic=Cubic Spline
+angel_client.mod.replay.interpolator.linear=Lineaarinen
+
+angel_client.mod.replay.option.showServerIPs=Näytä palvelimien IP-osoitteet
+
+angel_client.mod.quickplay.name=Pikapeli
+angel_client.mod.quickplay.description=Liity nopeasti pelien jonoihin näppäimistön avulla.
+
+angel_client.mod.quickplay.key=Pikapeli
+angel_client.mod.quickplay.option.menuKey=Näppäin
+
+angel_client.mod.hypixel_util.name=Hypixel Lisäykset
+angel_client.mod.hypixel_util.description=Useita parannuksia Hypixelin käyttökokemukseen.
+
+angel_client.mod.hypixel_util.option.visitHousingCommand=/visithousing
+angel_client.mod.hypixel_util.option.lobbySoundsVolume=Aulan äänenvoimakkuus
+angel_client.mod.hypixel_util.option.housingMusicVolume=Housing Musiikin Äänenvoimakkuus
+angel_client.mod.hypixel_util.option.popupEvents=Popup Tapahtumat
+angel_client.mod.hypixel_util.option.autogg=Auto GG
+angel_client.mod.hypixel_util.option.autoggMessage=GG viesti
+angel_client.mod.hypixel_util.option.hidegg=Piilota GG
+angel_client.mod.hypixel_util.option.autogl=Auto GL
+angel_client.mod.hypixel_util.option.autoglMessage=GL Viesti
+angel_client.mod.hypixel_util.option.hidegl=Piilota GL
+angel_client.mod.hypixel_util.option.levelhead=Level Head
+
+angel_client.mod.tnt_timer.name=TNT Ajastin
+angel_client.mod.tnt_timer.description=Näytä TNT:n räjähdyksen aika.
+
+angel_client.mod.motion_blur.name=Liikehäivyttäminen
+angel_client.mod.motion_blur.description=Pehmeä Liikehäivyttäminen efekti.
+
+angel_client.mod.motion_blur.option.blur=Sumennus
+
+angel_client.mod.menu_blur.name=Menu Semennus
+angel_client.mod.menu_blur.description=Sumeenna menujen tausta.
+
+angel_client.mod.menu_blur.option.blur=Sumennus
+angel_client.mod.menu_blur.option.fadeTime=Häivytysaika
+angel_client.mod.menu_blur.option.backgroundColour=Taustan Väri
+
+angel_client.mod.colour_saturation.name=Värikylläisyys
+angel_client.mod.colour_saturation.description=Säädä maailman värikylläisyyttä.
+
+angel_client.mod.colour_saturation.option.saturation=Kylläisyys
+
+angel_client.mod.chunk_animator.name=Chunk Animaattori
+angel_client.mod.chunk_animator.description=Animoi maailma sen latautuessa.
+
+angel_client.mod.chunk_animator.option.duration=Kesto
+angel_client.mod.chunk_animator.option.animation=Animaatio
+
+angel_client.mod.1.7_visuals.name=1.7 Visuaalit
+angel_client.mod.1.7_visuals.description=Tuo takaisin hieman 1.7:n näköä ja tunnetta.
+
+angel_client.mod.1.7_visuals.option.useAndMine=Kaiva kun käytät tavaraa
+angel_client.mod.1.7_visuals.option.particles=Hiukkaset
+angel_client.mod.1.7_visuals.option.blocking=Miekan estäminen
+angel_client.mod.1.7_visuals.option.eatingAndDrinking=Syöminen ja Juominen
+angel_client.mod.1.7_visuals.option.rod=Onki
+angel_client.mod.1.7_visuals.option.bow=Jousipyssy
+angel_client.mod.1.7_visuals.option.armourDamage=Vahinkovaikutus panssariin
+angel_client.mod.1.7_visuals.option.sneaking=Pehmeä hiivintä
+
+angel_client.mod.item_physics.name=Tavaroiden Fysiikka
+angel_client.mod.item_physics.description=Lisää esineisiin pyörivä animaatio.
+
+angel_client.mod.item_physics.option.rotationSpeed=Pyörimisnopeus
+
+angel_client.mod.particles.name=Hiukkaset
+angel_client.mod.particles.description=Säädä ja lisää hyökkäyshiukkasia.
+
+angel_client.mod.particles.option.multiplier=Kerroin
+angel_client.mod.particles.option.sharpness=Näytä aina Terävyys
+angel_client.mod.particles.option.snow=Lumi
+angel_client.mod.particles.option.slime=Lima
+angel_client.mod.particles.option.flames=Liekit
+
+angel_client.mod.time_changer.name=Ajan Vaihtaja
+angel_client.mod.time_changer.description=Muuta visuaalista aikaa vaikuttamatta pelaamiseen.
+
+angel_client.mod.time_changer.option.time=Aika
+
+angel_client.mod.block_selection.name=Palikan Valinta
+angel_client.mod.block_selection.description=Mukauta palikan valintaa.
+
+angel_client.mod.block_selection.option.outline=Ääriviivat
+angel_client.mod.block_selection.option.outlineWidth=Ääriviivan Leveys
+angel_client.mod.block_selection.option.outlineColour=Ääriviivan Väri
+angel_client.mod.block_selection.option.fill=Täytä
+angel_client.mod.block_selection.option.fillColour=Täytön VÄri
+angel_client.mod.block_selection.option.depth=Syvyys
+angel_client.mod.block_selection.option.persistent=Pysyvä
+
+angel_client.mod.hit_colour.name=Osuman Väri
+angel_client.mod.hit_colour.description=Muuta osuman väriä.
+
+angel_client.mod.hit_colour.option.colour=Väri
+
+angel_client.mod.hitbox.name=Osuma-alue
+angel_client.mod.hitbox.description=Mukauta ja vaihda helposti entiteetin osuma-aluetta.
+
+angel_client.mod.hitbox.option.toggleHitboxes=Vaihda Hitboxien päälläolo
+angel_client.mod.hitbox.option.boundingBox=Näytä rajoitusruutu
+angel_client.mod.hitbox.option.boundingBoxColour=Rajoitusruudun Väri
+angel_client.mod.hitbox.option.eyeHeight=Näytä silmien korkeus
+angel_client.mod.hitbox.option.eyeHeightColour=Silmien Korkeuden Väri
+angel_client.mod.hitbox.option.lookVector=Näytä katsevektori
+angel_client.mod.hitbox.option.lookVectorColour=Katsevektorin Väri
+angel_client.mod.hitbox.option.lineWidth=Viivan leveys
+
+angel_client.mod.category.general.name=Yleiset
+angel_client.mod.category.hud.name=HUD
+angel_client.mod.category.utility.name=Hyöty
+angel_client.mod.category.visual.name=Visuaaliset
+angel_client.mod.category.integration.name=Integrointi
+
+angel_client.mod.discord_integration.name=Discord Integrointi
+angel_client.mod.discord_integration.description=Discordin integrointiominaisuudet, mukaan lukien aktiviteetit ja peittokuva.
+
+angel_client.mod.discord_integration.option.voiceChatHud=Äänipuhelun HUD
+angel_client.mod.discord_integration.option.voiceChatHudScale=Äänipuhelun HUD Koko
+angel_client.mod.discord_integration.option.voiceChatHudAlignment=Äänipuhelun HUD Linjaus
+angel_client.mod.discord_integration.option.usernameColour=Käyttäjätunnuksen väri
+angel_client.mod.discord_integration.option.mutedColour=Mykistetyn väri
+angel_client.mod.discord_integration.option.speakingColour=Puhuvan väri
+
+angel_client.mod.screen.title=Mods
+angel_client.mod.screen.search=Kirjoita hakeaksesi
+angel_client.mod.screen.apply_to_all=Aseta Kaikkiin
+
+angel_client.hud.edit=Mukauta HUD näyttöä
+
+angel_client.packs.apply=Aseta
+angel_client.packs.open_folder=Paketin Kansio
+angel_client.packs.folder=Kansio (%d tavaraa)
+
+angel_client.screenshot.view=Katso
+angel_client.screenshot.open_folder=Näytä kansiossa
