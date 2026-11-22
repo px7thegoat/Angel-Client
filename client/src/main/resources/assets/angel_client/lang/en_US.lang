@@ -1,0 +1,736 @@
+angel_client.passthrough=%s
+angel_client.slider.percent=%s%%
+angel_client.slider.factor=%sx
+angel_client.slider.seconds=%ss
+angel_client.slider.pixels=%spx
+
+angel_client.vertical_alignment.top=Top
+angel_client.vertical_alignment.middle=Center
+angel_client.vertical_alignment.bottom=Bottom
+
+angel_client.perspective.first_person=First Person
+angel_client.perspective.third_person_back=Third Person Back
+angel_client.perspective.third_person_front=Third Person Front
+
+angel_client.easing.linear=Linear
+angel_client.easing.quad=Quad
+angel_client.easing.cubic=Cubic
+angel_client.easing.quart=Quart
+angel_client.easing.quint=Quint
+angel_client.easing.expo=Expo
+angel_client.easing.sine=Sine
+angel_client.easing.circ=Circ
+angel_client.easing.back=Back
+angel_client.easing.bounce=Bounce
+angel_client.easing.elastic=Elastic
+
+angel_client.file.edit=Edit File...
+
+angel_client.servers=Servers
+
+angel_client.key.category=Angel Client
+angel_client.key.accept_request=Accept Request
+angel_client.key.dismiss_request=Dismiss Request
+
+angel_client.mod.generic.option.enabled=Enabled
+angel_client.mod.hud.option.scale=Scale
+angel_client.mod.simple_hud.option.background=Background
+angel_client.mod.simple_hud.option.backgroundColour=Background Color
+angel_client.mod.simple_hud.option.border=Border
+angel_client.mod.simple_hud.option.borderColour=Border Color
+angel_client.mod.simple_hud.option.textColour=Text Color
+angel_client.mod.simple_hud.option.shadow=Text Shadow
+angel_client.mod.smooth_counter_hud.option.smoothNumbers=Smooth Numbers
+
+# --------------------------------------------------------
+# Angel Client (General Settings)
+# --------------------------------------------------------
+angel_client.mod.angel_client.name=Angel Client
+angel_client.mod.angel_client.description=General settings for Angel Client.
+angel_client.mod.angel_client.option.fancyMainMenu=Main Menu
+angel_client.mod.angel_client.option.logoInInventory=Show Logo in Inventory
+angel_client.mod.angel_client.mods=Mods
+angel_client.mod.angel_client.option.modsKey=Mods Key
+angel_client.mod.angel_client.edit_hud=Edit HUD
+angel_client.mod.angel_client.option.editHudKey=Edit HUD Key
+angel_client.mod.angel_client.option.uiColour=Accent Color
+angel_client.mod.angel_client.option.smoothUIColours=Smooth UI Colors
+angel_client.mod.angel_client.option.roundedUI=Rounded UI
+angel_client.mod.angel_client.option.buttonClicks=Button Clicks
+angel_client.mod.angel_client.option.smoothScrolling=Smooth Scrolling
+angel_client.mod.angel_client.option.fancyFont=HD Font
+
+# --------------------------------------------------------
+# Mod Screen
+# --------------------------------------------------------
+angel_client.mod.screen.title=Mods
+angel_client.mod.screen.search=Type to search
+angel_client.mod.screen.apply_to_all=Apply to All
+
+# --------------------------------------------------------
+# Categories
+# --------------------------------------------------------
+angel_client.mod.category.general.name=General
+angel_client.mod.category.hud.name=HUD
+angel_client.mod.category.utility.name=Utility
+angel_client.mod.category.visual.name=Visual
+angel_client.mod.category.integration.name=Integration
+angel_client.mod.category.performance.name=Performance
+angel_client.mod.category.combat.name=Combat
+angel_client.mod.category.render.name=Render
+angel_client.mod.category.world.name=World
+angel_client.mod.category.player.name=Player
+angel_client.mod.category.motion.name=Motion
+angel_client.mod.category.misc.name=Misc
+
+# --------------------------------------------------------
+# HUD
+# --------------------------------------------------------
+angel_client.hud.edit=Edit HUD
+
+# --------------------------------------------------------
+# FPS
+# --------------------------------------------------------
+angel_client.mod.fps.name=FPS
+angel_client.mod.fps.description=Display the FPS (frames per second).
+angel_client.mod.fps.option.brackets=Brackets
+angel_client.mod.fps.option.showText=Show FPS Text
+
+# --------------------------------------------------------
+# Coordinates
+# --------------------------------------------------------
+angel_client.mod.coordinates.name=Coordinates
+angel_client.mod.coordinates.description=Display your coordinates.
+angel_client.mod.coordinates.option.background=Background
+angel_client.mod.coordinates.option.backgroundColour=Background Color
+angel_client.mod.coordinates.option.border=Border
+angel_client.mod.coordinates.option.borderColour=Border Color
+angel_client.mod.coordinates.option.shadow=Text Shadow
+angel_client.mod.coordinates.option.axisLabelColour=Axis Label Color
+angel_client.mod.coordinates.option.axisValueColour=Axis Value Color
+angel_client.mod.coordinates.option.cardinalDirection=Cardinal Direction
+angel_client.mod.coordinates.option.cardinalDirectionColour=Cardinal Direction Color
+angel_client.mod.coordinates.option.axisDirection=Axis Direction
+angel_client.mod.coordinates.option.axisDirectionColour=Axis Direction Color
+
+# --------------------------------------------------------
+# Keystrokes
+# --------------------------------------------------------
+angel_client.mod.keystrokes.name=Keystrokes
+angel_client.mod.keystrokes.description=Display the currently held keys.
+angel_client.mod.keystrokes.option.movement=Movement
+angel_client.mod.keystrokes.option.mouse=Mouse
+angel_client.mod.keystrokes.option.mouseMovement=Mouse Movement
+angel_client.mod.keystrokes.option.showSpace=Space
+angel_client.mod.keystrokes.option.cps=CPS on Keys
+angel_client.mod.keystrokes.option.background=Background
+angel_client.mod.keystrokes.option.backgroundColour=Background Color
+angel_client.mod.keystrokes.option.backgroundColourPressed=Background Color (Held)
+angel_client.mod.keystrokes.option.border=Border
+angel_client.mod.keystrokes.option.borderColour=Border Color
+angel_client.mod.keystrokes.option.borderColourPressed=Border Color (Held)
+angel_client.mod.keystrokes.option.textColour=Text Color
+angel_client.mod.keystrokes.option.textColourPressed=Text Color (Held)
+angel_client.mod.keystrokes.option.shadow=Text Shadow
+angel_client.mod.keystrokes.option.smoothColours=Smooth Colors
+
+# --------------------------------------------------------
+# CPS
+# --------------------------------------------------------
+angel_client.mod.cps.name=CPS
+angel_client.mod.cps.description=Display your CPS (clicks per second).
+angel_client.mod.cps.option.rmb=Right Mouse Button CPS
+angel_client.mod.cps.option.separatorColour=Separator Color
+angel_client.mod.cps.option.brackets=Brackets
+angel_client.mod.cps.option.showText=Show CPS Text
+
+# --------------------------------------------------------
+# Ping
+# --------------------------------------------------------
+angel_client.mod.ping.name=Ping
+angel_client.mod.ping.description=Display the latency to the current server.
+angel_client.mod.ping.option.showText=Show Ping Text
+angel_client.mod.ping.option.brackets=Brackets
+angel_client.mod.ping.option.source=Source
+angel_client.mod.ping.option.source.auto=Auto
+angel_client.mod.ping.option.source.multiplayer_screen=Multiplayer Screen
+angel_client.mod.ping.option.source.tab_list=Tab List
+
+# --------------------------------------------------------
+# GUI Scale
+# --------------------------------------------------------
+angel_client.mod.guiscale.name=GUI Scale
+angel_client.mod.guiscale.description=Adjust the scale of certain GUI elements.
+angel_client.mod.guiscale.option.hotbarScale=Hotbar Scale
+angel_client.mod.guiscale.option.inventoryScale=Inventory Scale
+
+# --------------------------------------------------------
+# Speedometer
+# --------------------------------------------------------
+angel_client.mod.speedometer.name=Speedometer
+angel_client.mod.speedometer.description=Display your speed.
+angel_client.mod.speedometer.option.graphMode=Graph Mode
+angel_client.mod.speedometer.option.showText=Show Speedometer Text
+angel_client.mod.speedometer.option.customText=Custom Text
+
+# --------------------------------------------------------
+# Reach Display
+# --------------------------------------------------------
+angel_client.mod.reach_display.name=Reach Display
+angel_client.mod.reach_display.description=Display the distance when hitting entities.
+angel_client.mod.reach_display.option.brackets=Brackets
+angel_client.mod.reach_display.option.showText=Show Reach Text
+
+# --------------------------------------------------------
+# Combo Counter
+# --------------------------------------------------------
+angel_client.mod.combo_counter.name=Combo Counter
+angel_client.mod.combo_counter.description=Count the number of subsequent hits.
+angel_client.mod.combo_counter.no_hits=No combo
+angel_client.mod.combo_counter.one_hit=1 hit
+angel_client.mod.combo_counter.n_hits=%s hits
+
+# --------------------------------------------------------
+# Potion Effects
+# --------------------------------------------------------
+angel_client.mod.potion_effects.name=Potion Effects
+angel_client.mod.potion_effects.description=Display your active potions with countdowns.
+angel_client.mod.potion_effects.option.alignment=Alignment
+angel_client.mod.potion_effects.option.icon=Icon
+angel_client.mod.potion_effects.option.background=Background
+angel_client.mod.potion_effects.option.shadow=Text Shadow
+angel_client.mod.potion_effects.option.title=Label
+angel_client.mod.potion_effects.option.titleColour=Label Color
+angel_client.mod.potion_effects.option.duration=Duration
+angel_client.mod.potion_effects.option.durationColour=Duration Color
+angel_client.mod.potion_effects.option.spacing=Spacing
+
+# --------------------------------------------------------
+# Armor and Equipment
+# --------------------------------------------------------
+angel_client.mod.armour.name=Armor and Equipment
+angel_client.mod.armour.description=Display your armor and equipment with durability.
+angel_client.mod.armour.option.durability=Durability Text
+angel_client.mod.armour.option.durability.off=Off
+angel_client.mod.armour.option.durability.remaining=Remaining
+angel_client.mod.armour.option.durability.percentage=Percentage
+angel_client.mod.armour.option.durability.fraction=Fraction
+angel_client.mod.armour.option.armour=Show Armor
+angel_client.mod.armour.option.hand=Show Item
+angel_client.mod.armour.option.horizontal=Horizontal
+angel_client.mod.armour.option.shadow=Text Shadow
+angel_client.mod.armour.option.textColour=Text Color
+
+# --------------------------------------------------------
+# Timers
+# --------------------------------------------------------
+angel_client.mod.timers.name=Timers
+angel_client.mod.timers.description=Display timers for ingame events.
+angel_client.mod.timers.option.alignment=Alignment
+angel_client.mod.timers.option.icon=Icon
+angel_client.mod.timers.option.shadow=Text Shadow
+angel_client.mod.timers.option.nameColour=Label Color
+angel_client.mod.timers.option.timeColour=Time Color
+
+# --------------------------------------------------------
+# Chat
+# --------------------------------------------------------
+angel_client.mod.chat.name=Chat
+angel_client.mod.chat.description=Customize ingame chat.
+angel_client.mod.chat.peek=Chat Peek
+angel_client.mod.chat.option.preventClose=Prevent Closing
+angel_client.mod.chat.option.smooth=Message Animation
+angel_client.mod.chat.option.infiniteChat=Infinite Chat
+angel_client.mod.chat.option.peekKey=Peek Key
+angel_client.mod.chat.option.visibility=Visibility
+angel_client.mod.chat.option.visibility.shown=Shown
+angel_client.mod.chat.option.visibility.commands=Commands Only
+angel_client.mod.chat.option.visibility.hidden=Hidden
+angel_client.mod.chat.option.background=Background
+angel_client.mod.chat.option.backgroundColour=Background Color
+angel_client.mod.chat.option.defaultTextColour=Default Text Color
+angel_client.mod.chat.option.shadow=Text Shadow
+angel_client.mod.chat.option.colours=Colors
+angel_client.mod.chat.option.width=Width
+angel_client.mod.chat.option.closedHeight=Closed Height
+angel_client.mod.chat.option.openHeight=Open Height
+angel_client.mod.chat.option.links=Links
+angel_client.mod.chat.option.promptLinks=Prompt Links
+angel_client.mod.chat.option.chatFilter=Enable Chat Filter
+angel_client.mod.chat.option.filteredWordsContent=Filtered Words
+
+# --------------------------------------------------------
+# Tab List
+# --------------------------------------------------------
+angel_client.mod.tab_list.name=Tab List
+angel_client.mod.tab_list.description=Customize the tab/player list.
+angel_client.mod.tab_list.option.hideHeader=Hide Header
+angel_client.mod.tab_list.option.hideFooter=Hide Footer
+angel_client.mod.tab_list.option.pingType=Ping
+angel_client.mod.tab_list.option.pingType.none=Hidden
+angel_client.mod.tab_list.option.pingType.icon=Icon
+angel_client.mod.tab_list.option.pingType.numeral=Number
+angel_client.mod.tab_list.option.backgroundColour=List Background Colour
+angel_client.mod.tab_list.option.entryBackgroundColour=Entry Background Colour
+angel_client.mod.tab_list.option.hidePlayerHeads=Hide Player Heads
+angel_client.mod.tab_list.option.textShadow=Text Shadow
+
+# --------------------------------------------------------
+# Crosshair
+# --------------------------------------------------------
+angel_client.mod.crosshair.name=Crosshair
+angel_client.mod.crosshair.description=Customize the crosshair.
+angel_client.mod.crosshair.option.style=Style
+angel_client.mod.crosshair.option.style.default=Default
+angel_client.mod.crosshair.option.style.none=None
+angel_client.mod.crosshair.option.style.dot=Dot
+angel_client.mod.crosshair.option.style.plus=Plus
+angel_client.mod.crosshair.option.style.plus_dot=Plus Dot
+angel_client.mod.crosshair.option.style.square=Square
+angel_client.mod.crosshair.option.style.square_dot=Square Dot
+angel_client.mod.crosshair.option.style.circle=Circle
+angel_client.mod.crosshair.option.style.circle_dot=Circle Dot
+angel_client.mod.crosshair.option.style.four_angled=4 Angled
+angel_client.mod.crosshair.option.style.four_angled_dot=4 Angled Dot
+angel_client.mod.crosshair.option.style.triangle=Triangle
+angel_client.mod.crosshair.option.customDraw=Open Crosshair Editor
+angel_client.mod.crosshair.option.thirdPerson=Show in Third Person
+angel_client.mod.crosshair.option.spectatorAlways=Show in Spectator Mode
+angel_client.mod.crosshair.option.debug=Show in Debug Overlay
+angel_client.mod.crosshair.option.blending=Blending
+angel_client.mod.crosshair.option.crosshairColour=Color
+angel_client.mod.crosshair.option.highlightEntities=Highlight Entities
+angel_client.mod.crosshair.option.entityColour=Entity Color
+
+# --------------------------------------------------------
+# Scoreboard
+# --------------------------------------------------------
+angel_client.mod.scoreboard.name=Scoreboard
+angel_client.mod.scoreboard.description=Customize the scoreboard.
+angel_client.mod.scoreboard.option.scale=Scale
+angel_client.mod.scoreboard.option.hide=Hide
+angel_client.mod.scoreboard.option.background=Background
+angel_client.mod.scoreboard.option.backgroundColour=Background Color
+angel_client.mod.scoreboard.option.border=Border
+angel_client.mod.scoreboard.option.borderColour=Border Color
+angel_client.mod.scoreboard.option.backgroundColourTop=Top Background Colour
+angel_client.mod.scoreboard.option.textColour=Text Color
+angel_client.mod.scoreboard.option.shadow=Text Shadow
+angel_client.mod.scoreboard.option.numbers=Numbers
+angel_client.mod.scoreboard.option.numbersColour=Numbers Color
+
+# --------------------------------------------------------
+# Boss Bar
+# --------------------------------------------------------
+angel_client.mod.bossbar.name=Boss Bar
+angel_client.mod.bossbar.description=Customize the boss health bar.
+angel_client.mod.bossbar.option.scale=Scale
+angel_client.mod.bossbar.option.showText=Show Text
+angel_client.mod.bossbar.option.textShadow=Text Shadow
+angel_client.mod.bossbar.option.showBossBar=Show Bossbar
+
+# --------------------------------------------------------
+# Server IP
+# --------------------------------------------------------
+angel_client.mod.server_address.name=Server IP
+angel_client.mod.server_address.description=Display the current server address.
+angel_client.mod.server_address.option.brackets=Brackets
+angel_client.mod.server_address.option.showIcon=Show Server icon
+angel_client.mod.server_address.option.serverColour=Server Color
+
+# --------------------------------------------------------
+# Pack Display
+# --------------------------------------------------------
+angel_client.mod.packdisplay.name=Pack Display
+angel_client.mod.packdisplay.description=Display the currently active resource pack.
+angel_client.mod.packdisplay.option.showIcon=Show Icon
+angel_client.mod.packdisplay.option.iconSize=Icon Size
+angel_client.mod.packdisplay.option.showName=Show Name
+angel_client.mod.packdisplay.option.shadow=Shadow
+angel_client.mod.packdisplay.option.textColor=Text Color
+angel_client.mod.packdisplay.option.chroma=Chroma
+
+# --------------------------------------------------------
+# Mush Stats
+# --------------------------------------------------------
+angel_client.mod.mush_stats.name=Mush Stats
+angel_client.mod.mush_stats.description=Display player stats from MushMC.
+angel_client.mod.mush_stats.option.nametagLevelEnabled=Head Level
+angel_client.mod.mush_stats.option.key=Keybind
+angel_client.mod.mush_stats.key=Keybind
+
+# --------------------------------------------------------
+# Tweaks
+# --------------------------------------------------------
+angel_client.mod.tweaks.name=Tweaks
+angel_client.mod.tweaks.description=Various game tweaks including fullbright.
+angel_client.mod.tweaks.option.fullbright=Fullbright
+angel_client.mod.tweaks.option.arabicNumerals=Arabic Numerals
+angel_client.mod.tweaks.option.betterTooltips=Better Tooltips
+angel_client.mod.tweaks.option.minimalViewBobbing=Minimal View Bobbing
+angel_client.mod.tweaks.option.minimalDamageShake=Minimal Damage Shake
+angel_client.mod.tweaks.option.damageShakeIntensity=Damage Shake Intensity
+angel_client.mod.tweaks.option.confirmDisconnect=Confirm Disconnect
+angel_client.mod.tweaks.option.dropStackKey=Drop Stack
+angel_client.mod.tweaks.drop_stack_key=Drop Stack
+angel_client.mod.tweaks.option.borderlessFullscreen=Borderless Fullscreen
+angel_client.mod.tweaks.option.showAngelClientUsers=Angel Client Users
+angel_client.mod.tweaks.option.rawMouseInput=Raw Mouse Input
+angel_client.mod.tweaks.option.clickDelayFix=Click Delay Fix
+angel_client.mod.tweaks.option.mouseDelayFix=Mouse Delay Fix
+angel_client.mod.tweaks.option.betterKeyBindings=Better Key Bindings
+angel_client.mod.tweaks.option.disableHotbarScrolling=Disable Hotbar Scrolling
+angel_client.mod.tweaks.option.centredInventory=Centered Inventory
+angel_client.mod.tweaks.confirm_disconnect=Press Again to Confirm
+
+# --------------------------------------------------------
+# Damage Shake
+# --------------------------------------------------------
+angel_client.mod.damage_shake.name=Damage Shake
+angel_client.mod.damage_shake.description=Shake the screen when taking damage.
+angel_client.mod.damage_shake.option.intensity=Intensity
+
+# --------------------------------------------------------
+# Performance
+# --------------------------------------------------------
+angel_client.mod.performance.name=Performance
+angel_client.mod.performance.description=Various optimizations to improve game performance.
+angel_client.mod.performance.option.antiHologram=Anti Hologram
+angel_client.mod.performance.option.noFoliage=No Foliage
+angel_client.mod.performance.option.limitParticles=Limit Particles
+angel_client.mod.performance.option.noClouds=No Clouds
+angel_client.mod.performance.option.limitEntityRender=Limit Entity Render
+angel_client.mod.performance.option.noWeather=No Weather
+angel_client.mod.performance.option.noFog=No Fog
+angel_client.mod.performance.option.reducedChunkUpdates=Reduced Chunk Updates
+angel_client.mod.performance.option.hideTallGrass=Hide Tall Grass
+angel_client.mod.performance.option.hideDoubleTallGrass=Hide Double Tall Grass
+angel_client.mod.performance.option.hideFlowers=Hide Flowers
+angel_client.mod.performance.option.hideDoubleTallFlowers=Hide Double Tall Flowers
+angel_client.mod.performance.option.hideFences=Hide Fences
+angel_client.mod.performance.option.hideFenceGates=Hide Fence Gates
+angel_client.mod.performance.option.hideSkulls=Hide Skulls
+angel_client.mod.performance.option.hideArmorStands=Hide Armor Stands
+angel_client.mod.performance.option.hideItemFrames=Hide Item Frames
+angel_client.mod.performance.option.hideMapsInItemFrames=Hide Maps In Item Frames
+angel_client.mod.performance.option.hideStuckArrows=Hide Stuck Arrows
+angel_client.mod.performance.option.hideGroundArrows=Hide Ground Arrows
+angel_client.mod.performance.option.hideParticleLighting=Hide Particle Lighting
+angel_client.mod.performance.option.hideLavaParticles=Hide Lava Particles
+angel_client.mod.performance.option.hideMobInSpawner=Hide Mob In Spawner
+angel_client.mod.performance.option.hideSpawnerParticles=Hide Spawner Particles
+angel_client.mod.performance.option.minimalPortalTextures=Minimal Portal Textures
+
+# --------------------------------------------------------
+# Item Scale
+# --------------------------------------------------------
+angel_client.mod.item_scale.name=Item Scale
+angel_client.mod.item_scale.description=Changes the size and position of the item in your hand.
+angel_client.mod.item_scale.option.scale=Scale
+angel_client.mod.item_scale.option.posX=Position X
+angel_client.mod.item_scale.option.posY=Position Y
+angel_client.mod.item_scale.option.posZ=Position Z
+
+# --------------------------------------------------------
+# Freelook
+# --------------------------------------------------------
+angel_client.mod.freelook.name=Freelook
+angel_client.mod.freelook.description=Unlock camera rotation from the player's head.
+angel_client.mod.freelook.key=Freelook
+angel_client.mod.freelook.option.key=Key
+angel_client.mod.freelook.option.toggleMode=Toggle Freelook
+angel_client.mod.freelook.option.perspective=Perspective
+angel_client.mod.freelook.option.invertPitch=Invert Mouse Vertically
+angel_client.mod.freelook.option.invertYaw=Invert Mouse Horizontally
+
+# --------------------------------------------------------
+# Taplook
+# --------------------------------------------------------
+angel_client.mod.taplook.name=Taplook
+angel_client.mod.taplook.description=Change your perspective by holding a button.
+angel_client.mod.taplook.key=Taplook
+angel_client.mod.taplook.option.key=Key
+angel_client.mod.taplook.option.perspective=Perspective
+
+# --------------------------------------------------------
+# Toggle Sprint
+# --------------------------------------------------------
+angel_client.mod.toggle_sprint.name=Toggle Sprint
+angel_client.mod.toggle_sprint.description=Toggle the sprint key.
+angel_client.mod.toggle_sprint.default_width=113
+angel_client.mod.toggle_sprint.option.hud=HUD
+angel_client.mod.toggle_sprint.held=Sprinting (Held)
+angel_client.mod.toggle_sprint.toggled=Sprinting (Toggled)
+
+# --------------------------------------------------------
+# Zoom
+# --------------------------------------------------------
+angel_client.mod.zoom.name=Zoom
+angel_client.mod.zoom.description=Zoom in when pressing a button.
+angel_client.mod.zoom.key=Zoom
+angel_client.mod.zoom.option.key=Key
+angel_client.mod.zoom.zoom_out=Zoom Out
+angel_client.mod.zoom.option.zoomOutKey=Zoom Out Key
+angel_client.mod.zoom.zoom_in=Zoom In
+angel_client.mod.zoom.option.zoomInKey=Zoom In Key
+angel_client.mod.zoom.option.cinematic=Cinematic Camera
+angel_client.mod.zoom.option.reduceSensitivity=Reduce Sensitivity
+angel_client.mod.zoom.option.scrolling=Scroll to Zoom
+angel_client.mod.zoom.option.smooth=Zoom Animation
+angel_client.mod.zoom.option.factor=Zoom Factor
+
+# --------------------------------------------------------
+# Replay
+# --------------------------------------------------------
+angel_client.mod.replay.name=Replay
+angel_client.mod.replay.description=Record and replay your gameplay.
+angel_client.mod.replay.option.enableNotifications=Enable Notifications
+angel_client.mod.replay.option.recordSingleplayer=Record Singleplayer
+angel_client.mod.replay.option.recordServer=Record Server
+angel_client.mod.replay.option.recordingIndicator=Recording Indicator
+angel_client.mod.replay.option.recordingIndicatorColour=Recording Indicator Color
+angel_client.mod.replay.option.recordingIndicatorScale=Recording Indicator Scale
+angel_client.mod.replay.option.recordingIndicatorTextColour=Recording Indicator Text Color
+angel_client.mod.replay.option.recordingIndicatorTextShadow=Recording Indicator Text Shadow
+angel_client.mod.replay.option.automaticRecording=Automatic Recording
+angel_client.mod.replay.option.renameDialog=Rename Dialog
+angel_client.mod.replay.option.showChat=Show Chat
+angel_client.mod.replay.option.camera=Camera
+angel_client.mod.replay.option.camera.classic=Classic
+angel_client.mod.replay.option.camera.vanilla_ish=Vanilla-ish
+angel_client.mod.replay.option.showPathPreview=Show Path Preview
+angel_client.mod.replay.option.defaultInterpolator=Default Interpolator
+angel_client.mod.replay.interpolator.catmull=Catmull-Rom Spline
+angel_client.mod.replay.interpolator.cubic=Cubic Spline
+angel_client.mod.replay.interpolator.linear=Linear
+angel_client.mod.replay.option.showServerIPs=Show Server IPs
+
+# --------------------------------------------------------
+# Fast Recraft
+# --------------------------------------------------------
+angel_client.mod.fast_recraft.name=Fast Recraft
+angel_client.mod.fast_recraft.description=Remembers your last crafting recipe.
+
+# --------------------------------------------------------
+# Quick Play
+# --------------------------------------------------------
+angel_client.mod.quickplay.name=Quick Play
+angel_client.mod.quickplay.description=Quickly queue games using your keyboard.
+angel_client.mod.quickplay.key=Quick Play
+angel_client.mod.quickplay.option.menuKey=Key
+
+# --------------------------------------------------------
+# Hypixel Additions
+# --------------------------------------------------------
+angel_client.mod.hypixel_util.name=Hypixel Additions
+angel_client.mod.hypixel_util.description=Various improvements to the experience on Hypixel.
+angel_client.mod.hypixel_util.option.visitHousingCommand=/visithousing
+angel_client.mod.hypixel_util.option.lobbySoundsVolume=Lobby Sounds Volume
+angel_client.mod.hypixel_util.option.housingMusicVolume=Housing Music Volume
+angel_client.mod.hypixel_util.option.popupEvents=Popup Events
+angel_client.mod.hypixel_util.option.autogg=Auto GG
+angel_client.mod.hypixel_util.option.autoggMessage=GG Message
+angel_client.mod.hypixel_util.option.hidegg=Hide GG
+angel_client.mod.hypixel_util.option.autogl=Auto GL
+angel_client.mod.hypixel_util.option.autoglMessage=GL Message
+angel_client.mod.hypixel_util.option.hidegl=Hide GL
+angel_client.mod.hypixel_util.option.levelhead=Level Head
+
+# --------------------------------------------------------
+# TNT Timer
+# --------------------------------------------------------
+angel_client.mod.tnt_timer.name=TNT Timer
+angel_client.mod.tnt_timer.description=Display the explosion time of TNT.
+
+# --------------------------------------------------------
+# Motion Blur
+# --------------------------------------------------------
+angel_client.mod.motion_blur.name=Motion Blur
+angel_client.mod.motion_blur.description=Adds a motion blur effect to the game.
+angel_client.mod.motion_blur.option.blurAmount=Blur Amount
+angel_client.mod.motion_blur.option.blur=Blur
+angel_client.mod.motion_blur.option.adaptive=Adaptive
+
+# --------------------------------------------------------
+# Menu Blur
+# --------------------------------------------------------
+angel_client.mod.menu_blur.name=Menu Blur
+angel_client.mod.menu_blur.description=Blur the backgrounds of menus.
+angel_client.mod.menu_blur.option.blur=Blur
+angel_client.mod.menu_blur.option.fadeTime=Fade Time
+angel_client.mod.menu_blur.option.backgroundColour=Background Color
+
+# --------------------------------------------------------
+# Color Saturation
+# --------------------------------------------------------
+angel_client.mod.colour_saturation.name=Color Saturation
+angel_client.mod.colour_saturation.description=Adjust the color saturation of the world.
+angel_client.mod.colour_saturation.option.saturation=Saturation
+
+# --------------------------------------------------------
+# Chunk Animator
+# --------------------------------------------------------
+angel_client.mod.chunk_animator.name=Chunk Animator
+angel_client.mod.chunk_animator.description=Animate the world as it loads.
+angel_client.mod.chunk_animator.option.duration=Duration
+angel_client.mod.chunk_animator.option.animation=Animation
+
+# --------------------------------------------------------
+# 1.7 Visuals
+# --------------------------------------------------------
+angel_client.mod.1.7_visuals.name=1.7 Visuals
+angel_client.mod.1.7_visuals.description=Bring back some of the look-and-feel of 1.7.
+angel_client.mod.1.7_visuals.option.useAndMine=Dig while using Item
+angel_client.mod.1.7_visuals.option.particles=Particles
+angel_client.mod.1.7_visuals.option.blocking=Sword Blocking
+angel_client.mod.1.7_visuals.option.eatingAndDrinking=Eating and Drinking
+angel_client.mod.1.7_visuals.option.rod=Fishing Rod
+angel_client.mod.1.7_visuals.option.bow=Bow
+angel_client.mod.1.7_visuals.option.armourDamage=Damage Effect on Armor
+angel_client.mod.1.7_visuals.option.sneaking=Smooth Sneaking
+
+# --------------------------------------------------------
+# Item Physics
+# --------------------------------------------------------
+angel_client.mod.item_physics.name=Item Physics
+angel_client.mod.item_physics.description=Add a spinning animation to items.
+angel_client.mod.item_physics.option.rotationSpeed=Rotation Speed
+
+# --------------------------------------------------------
+# Particles
+# --------------------------------------------------------
+angel_client.mod.particles.name=Particles
+angel_client.mod.particles.description=Adjust and multiply attack particles.
+angel_client.mod.particles.option.multiplier=Multiplier
+angel_client.mod.particles.option.sharpness=Always Show Sharpness
+angel_client.mod.particles.option.snow=Snow
+angel_client.mod.particles.option.slime=Slime
+angel_client.mod.particles.option.flames=Flames
+
+# --------------------------------------------------------
+# Time Changer
+# --------------------------------------------------------
+angel_client.mod.time_changer.name=Time Changer
+angel_client.mod.time_changer.description=Change the visual time without affecting gameplay.
+angel_client.mod.time_changer.option.time=Time
+
+# --------------------------------------------------------
+# Block Selection
+# --------------------------------------------------------
+angel_client.mod.block_selection.name=Block Selection
+angel_client.mod.block_selection.description=Customize the block selection.
+angel_client.mod.block_selection.option.outline=Outline
+angel_client.mod.block_selection.option.outlineWidth=Outline Width
+angel_client.mod.block_selection.option.outlineColour=Outline Color
+angel_client.mod.block_selection.option.fill=Fill
+angel_client.mod.block_selection.option.fillColour=Fill Color
+angel_client.mod.block_selection.option.depth=Depth
+angel_client.mod.block_selection.option.persistent=Persistent
+
+# --------------------------------------------------------
+# Hit Color
+# --------------------------------------------------------
+angel_client.mod.hit_colour.name=Hit Color
+angel_client.mod.hit_colour.description=Change the hit color.
+angel_client.mod.hit_colour.option.colour=Color
+
+# --------------------------------------------------------
+# Hitbox
+# --------------------------------------------------------
+angel_client.mod.hitbox.name=Hitbox
+angel_client.mod.hitbox.description=Customize and easily toggle entity hitbox displays.
+angel_client.mod.hitbox.option.toggleHitboxes=Toggle Hitboxes
+angel_client.mod.hitbox.option.boundingBox=Show Bounding Box
+angel_client.mod.hitbox.option.boundingBoxColour=Bounding Box Color
+angel_client.mod.hitbox.option.eyeHeight=Show Eye Height
+angel_client.mod.hitbox.option.eyeHeightColour=Eye Height Color
+angel_client.mod.hitbox.option.lookVector=Show Look Vector
+angel_client.mod.hitbox.option.lookVectorColour=Look Vector Color
+angel_client.mod.hitbox.option.lineWidth=Line Width
+
+# --------------------------------------------------------
+# Hit Delay Fix
+# --------------------------------------------------------
+angel_client.mod.hit_delay_fix.name=Hit Delay Fix
+angel_client.mod.hit_delay_fix.description=Removes the delay between attacks when hitting entities.
+
+# --------------------------------------------------------
+# Discord Integration
+# --------------------------------------------------------
+angel_client.mod.discord_integration.name=Discord Integration
+angel_client.mod.discord_integration.description=Integration features for Discord including activities and overlay.
+angel_client.mod.discord_integration.option.voiceChatHud=Voice Chat HUD
+angel_client.mod.discord_integration.option.voiceChatHudScale=Voice Chat HUD Scale
+angel_client.mod.discord_integration.option.voiceChatHudAlignment=Voice Chat HUD Alignment
+angel_client.mod.discord_integration.option.usernameColour=Username Colour
+angel_client.mod.discord_integration.option.mutedColour=Muted Colour
+angel_client.mod.discord_integration.option.shadow=Text Shadow
+angel_client.mod.discord_integration.option.speakingColour=Speaking Colour
+
+# --------------------------------------------------------
+# Auto Text
+# --------------------------------------------------------
+angel_client.mod.auto_text.name=Auto Text
+angel_client.mod.auto_text.description=Create shortcuts that expand into full messages.
+angel_client.mod.auto_text.option.keyAbrirMenu=Auto Text MENU
+angel_client.mod.auto_text.key=Auto Text
+
+# --------------------------------------------------------
+# Big Drops
+# --------------------------------------------------------
+angel_client.mod.big_drops.name=Big Drops
+angel_client.mod.big_drops.description=Scales dropped items on the ground by type.
+angel_client.mod.big_drops.option.enabled=Enabled
+angel_client.mod.big_drops.option.defaultScale=Default Scale
+angel_client.mod.big_drops.option.scaleAll=Scale All Items
+angel_client.mod.big_drops.option.itemScales=Custom Item Scales
+
+# --------------------------------------------------------
+# Title Position
+# --------------------------------------------------------
+angel_client.mod.titleposition.name=Title Position
+angel_client.mod.titleposition.description=Adjust the position and style of title messages.
+angel_client.mod.titleposition.option.shadow=Title Shadow
+angel_client.mod.titleposition.option.chroma=Title Chroma
+angel_client.mod.titleposition.option.titleScale=Title Scale
+angel_client.mod.titleposition.option.subtitleScale=Subtitle Scale
+
+# --------------------------------------------------------
+# Resource Packs
+# --------------------------------------------------------
+angel_client.packs.apply=Apply
+angel_client.packs.open_folder=Pack Folder
+angel_client.packs.folder=Folder (%d items)
+angel_client.packs.done=Done
+angel_client.packs.open_folder_long=Open Resource Pack Folder
+angel_client.packs.find_new=Find New Packs
+angel_client.packs.available=Available
+angel_client.packs.active=Active
+angel_client.packs.search=Search...
+
+# --------------------------------------------------------
+# Screenshot
+# --------------------------------------------------------
+angel_client.screenshot.view=View
+angel_client.screenshot.open_folder=Show in Folder
+
+# --------------------------------------------------------
+# Nametags
+# --------------------------------------------------------
+angel_client.mod.nametags.name=Nametags
+angel_client.mod.nametags.description=Customize how player nametags are displayed.
+angel_client.mod.nametags.option.showNametags=Show Nametags
+angel_client.mod.nametags.option.nametagBackground=Nametag Background
+angel_client.mod.nametags.option.textShadow=Text Shadow
+angel_client.mod.nametags.option.showOwnNametag=Show Own Nametag
+angel_client.mod.nametags.option.showIcon=Show Icon
+angel_client.mod.nametags.option.nametagBorder=Nametag Border
+angel_client.mod.nametags.option.nametagBorderColour=Border Color
+angel_client.mod.nametags.option.nametagBorderGradient=Animated Border
+angel_client.mod.nametags.option.nametagBorderGradientColour=Border Gradient Color
+angel_client.mod.nametags.option.nametagMessage=Custom Message
+
+# --------------------------------------------------------
+# Outros
+# --------------------------------------------------------
+angel_client.mod.auto_text.key=Auto Text

@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+TweakClass: com.replaymod.core.tweaker.ReplayModTweaker
+TweakOrder: 0
+FMLCorePluginContainsFMLMod: true
+FMLCorePlugin: com.replaymod.core.LoadingPlugin
+FMLAT: replaymod_at.cfg
+

@@ -1,0 +1,27 @@
+{
+    "minVersion": "0.7.11",
+    "required": false,
+    "package": "io.github.angelclient.client.mixin",
+    "compatibilityLevel": "JAVA_8",
+    "refmap": "mixins.angelclient.replaymod.refmap.json",
+    "mixins": [
+        "client.MixinNetHandlerLoginClientReplayRecording",
+        "mod.MixinSCReplayMod$MixinMinecraft",
+        "mod.MixinSCReplayMod$MixinEntityRenderer",
+        "mod.MixinSCReplayMod$MixinGuiIngame",
+        "mod.MixinSCReplayMod$MixinMCVer",
+        "mod.MixinSCReplayMod$MixinCameraEntity",
+        "mod.MixinSCReplayMod$MixinGuiReplayViewer",
+        "mod.MixinSCReplayMod$MixinReplayMod",
+        "mod.MixinSCReplayMod$MixinGuiSavingReplay",
+        "mod.MixinSCReplayMod$MixinClassicCameraController",
+        "mod.MixinSCReplayMod$MixinVanillaCameraController",
+        "mod.MixinSCReplayMod$MixinOptifineReflection",
+        "mod.MixinSCReplayMod$MixinGuiRecordingOverlay",
+        "mod.MixinSCReplayMod$MixinAbstractGuiSlider",
+        "mod.MixinSCReplayMod$MixinGuiHandler",
+        "mod.MixinSCReplayMod$MixinPacketListener"
+    ],
+    "client": [],
+    "server": []
+}
